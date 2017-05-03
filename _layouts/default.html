@@ -8,9 +8,14 @@
     {% include header.html %}
 
     <main class="page-content" aria-label="Content">
+      {% if page.show_header_image %}
+      {{ content }}
+      {% else %}
       <div class="wrapper">
+        <h1> don't show header image</h1>
         {{ content }}
       </div>
+      {% endif %}
     </main>
 
     {% include footer.html %}

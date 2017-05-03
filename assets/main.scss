@@ -10,11 +10,62 @@ body {
   color: blue;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, nav {
   font-family: 'Lusitana', serif;
   color: #333;
 }
 
+.header-image {
+  background-image: url("/assets/header3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 250px;
+  margin: 0 0 6px 0;
+  padding: 0;
+}
+.page-content {
+  padding: 0 30px 0;
+  padding: 0;
+}
 .site-title {
   font-family: 'Lusitana', serif;
+  font-size: 2.2em;
+  letter-spacing: normal;
+  transition: all 0.3s ease;
+}
+a.site-title {
+  margin-left: 0;
+}
+.page-link {
+  transition: all 0.3s ease;
+}
+a.page-link:hover {
+  color: grey;
+  text-decoration: none;
+}
+a.site-title:hover {
+  text-decoration: none;
+  color: #c99a2a;
+}
+img.site-logo {
+  max-width: 50px;
+  float:left;
+  padding: 2px;
+  margin-right: 6px;
+}
+.site-header {
+  background: -o-linear-gradient(left, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
+  background: linear-gradient(to right, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
+  height: auto;
+  border: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  border-left: none;
+  border-right: none;
+}
+
+.header-bkgd {
+  background: white;
+  margin-top: 11px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
