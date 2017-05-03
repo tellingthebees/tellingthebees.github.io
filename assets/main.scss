@@ -4,10 +4,11 @@
 
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Lusitana');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans');
 
 body {
-  font-family: 'Arial', sans-serif;
-  color: blue;
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: #333;
 }
 
 h1, h2, h3, h4, nav {
@@ -16,16 +17,21 @@ h1, h2, h3, h4, nav {
 }
 
 .header-image {
-  background-image: url("/assets/header3.jpg");
+  background-image: url("/assets/header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 250px;
-  margin: 0 0 6px 0;
-  padding: 0;
+  margin: 0;
+  margin-top: -20px;
+
+}
+.site-nav {
+  line-height: normal;
+  margin-top: 10px;
 }
 .page-content {
-  padding: 0 30px 0;
-  padding: 0;
+
+  padding: 20px 0;
 }
 .site-title {
   font-family: 'Lusitana', serif;
@@ -56,6 +62,7 @@ img.site-logo {
 .site-header {
   background: -o-linear-gradient(left, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
   background: linear-gradient(to right, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
+  background: linear-gradient(to right, #9f826d, #d7b62b, #cdac4e, #d18911, #b48925);
   height: auto;
   border: 1px solid #e8e8e8;
   border-bottom: 1px solid #e8e8e8;
@@ -68,4 +75,10 @@ img.site-logo {
   margin-top: 11px;
   padding-top: 8px;
   padding-bottom: 8px;
+}
+/*footer */
+p.footer-heading {
+  font-size: 12px;
+  text-align: right;
+  color: #828282;
 }
