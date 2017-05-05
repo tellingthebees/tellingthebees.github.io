@@ -79,6 +79,39 @@ img.site-logo {
 /*footer */
 p.footer-heading {
   font-size: 12px;
-  text-align: right;
+  text-align: right;/*
+  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #eee;*/
   color: #828282;
+  padding-top: 4px;
+}
+.footer-col-1{
+  width: calc(40% - (30px / 2));
+  font-size: 0.85em;
+  margin: 0;
+}
+.footer-col-3{
+  width: calc(60% - (30px / 2));
+
+  margin: 0;
+  float: right;
+  font-size: 0.85em;
+}
+.footer-col-wrapper {
+/*  border-top: 1px solid #e8e8e8;*/
+  margin: 6px 0;
+  padding: 10px 0 0;
+}
+.site-footer {
+  padding-top: 10px;
+}
+.footer-logo {
+  height: 60px;
+  object-fit: contain;
+
+  max-width: 150px;
+  margin: 0 20px;
+  padding: 0;
+}
+.wrapper {
 }
