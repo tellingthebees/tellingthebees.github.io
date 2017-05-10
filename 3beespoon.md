@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: home
 title: Beespoon
 permalink: /beespoon/
+show_header_image: true
+header_image: beespoon
+header_image_alt: The beespoon installation
 ---
 
 ## The Beespoon

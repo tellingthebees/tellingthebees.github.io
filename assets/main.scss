@@ -17,13 +17,16 @@ h1, h2, h3, h4, nav {
 }
 
 .header-image {
-  background-image: url("/assets/header.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
   height: 250px;
   margin: 0;
   margin-top: -20px;
 
+}
+img.header-image {
+  height: 250px;
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
 }
 .site-nav {
   line-height: normal;
@@ -98,7 +101,6 @@ p.footer-heading {
   font-size: 0.85em;
 }
 .footer-col-wrapper {
-/*  border-top: 1px solid #e8e8e8;*/
   margin: 6px 0;
   padding: 10px 0 0;
 }
@@ -112,5 +114,6 @@ p.footer-heading {
   margin: 3px 8px;
   padding: 0;
 }
-.wrapper {
+.post-content {
+  margin-top: 10px;
 }
