@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Research
-permalink: /research/
+permalink: "/research/"
+layout: default
 ---
 
 ## Research Context

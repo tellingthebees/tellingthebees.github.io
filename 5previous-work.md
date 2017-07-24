@@ -1,7 +1,7 @@
 ---
-layout: home
 title: Previous Work
-permalink: /prev-work/
+permalink: "/prev-work/"
+layout: home
 show_header_image: true
 header_image: prev-work
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
