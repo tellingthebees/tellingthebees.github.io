@@ -1,7 +1,6 @@
 ---
 title: Project News
 permalink: "/news/"
-layout: blog
+layout: news
 categories: news
 ---
-
