@@ -6,4 +6,4 @@ categories:
 layout: post
 ---
 
-here's some project news
+here's some project news.
