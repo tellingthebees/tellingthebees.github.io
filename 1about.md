@@ -10,25 +10,6 @@ Telling the Bees is a 12-month AHRC connected communities follow on project that
 ### What is "Telling the Bees?"
 Telling the Bees is an old tradition in England and Wales, where beekeepers (or their families) would tell their bees of important family events (like births, deaths, marriages) so that their bees would stay healthy and wouldn't swarm.
 
-### Project Team
-The project team is
-
-#### Debbie Maxwell - University of York
-Bio here. And photo.
-
-#### Toby Pillatt - University of Sheffield
-Bio here. And photo.
-
-#### Liz Edwards - Lancaster University
-Bio here. And photo.
-
-#### Rachel Newman - GrowTheatre
-Bio here. And photo.
-
-#### Dave Fleming - York Explore Libraries and Archives
-Bio here. And photo.
-
-
 ### Project Aims
 Our project aims are:
 1. To reconsider the concept of ‘future folklore’ about bees and beekeeping as embodied creative learning experiences by engaging with pupils in inner-city primary schools. _We consider 'future folklore' as ways to share knowledge through stories with an intention of casting forward, this might include films, artefacts, written stories, or performances)._
