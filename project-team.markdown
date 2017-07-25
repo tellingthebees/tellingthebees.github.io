@@ -13,4 +13,8 @@ Toby is a Senior Research Associate at the University of East Anglia and Visitin
 
 ##Rachel Newman – GrowTheatre 
 
-Rachel is joint founder and Co-Artistic Director of Growtheatre, a new Community Interest Company formed in 2012. Despite the company being brand new, the founders, Rachel Newman and Sophie Hunter, have been creating theatre together since 1998, when they met on the staff team at the Crucible Youth Theatre. Growtheatre has been born out of 14 years worth of experience of working with young people and adults in community and education settings. [Source](http://www.linkedin.com/in/rachel-newman-30530037/)
+Rachel is joint founder and Co-Artistic Director of Growtheatre, a new Community Interest Company formed in 2012. Despite the company being brand new, the founders, Rachel Newman and Sophie Hunter, have been creating theatre together since 1998, when they met on the staff team at the Crucible Youth Theatre. Growtheatre has been born out of 14 years worth of experience of working with young people and adults in community and education settings. [Source](http://www.linkedin.com/in/rachel-newman-30530037/) 
+
+##Liz Edwards - University of Lancaster 
+
+Liz is a designer and PhD student based in HighWire Centre for Doctoral Training at Lancaster University. Her interests include the design of digital-nature hybrid technologies to support engagement with the natural world. Her research involves the use of a values-led design process drawn from critical theory of technology. [Source](http://www.bees.eca.ed.ac.uk/)
