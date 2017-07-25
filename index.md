@@ -27,3 +27,8 @@ Rachel is joint founder and Co-Artistic Director of Growtheatre, a new Community
 
 Liz is a designer and PhD student based in HighWire Centre for Doctoral Training at Lancaster University. Her interests include the design of digital-nature hybrid technologies to support engagement with the natural world. Her research involves the use of a values-led design process drawn from critical theory of technology. [Source](http://www.bees.eca.ed.ac.uk/)
 
+## Dave Fleming - York Explore 
+Dave is currently a Community Arts officer for City of York Council, who are dedicated to keeping York safe, and maintaining a good community in York. 
+
+##Amy Cornforth - University of York 
+Amy Cornforth is a undergraduate Film and Television Production student currently studying in the Theatre, Film and Television department in the University of York. 
