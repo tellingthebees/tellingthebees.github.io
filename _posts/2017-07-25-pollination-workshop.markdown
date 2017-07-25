@@ -13,8 +13,8 @@ Just a small number of the hexagons that will make up the final mural.
 
 **The remaining dates and times are as follows:**  
 
-Thursday 10th August – 10.00am – 1.30pm, York Explore 
-Monday 21st August – 10am – 1.30pm, York Explore 
+Thursday 10th August – 10.00am – 1.30pm 
+Monday 21st August – 10am – 1.30pm
 Saturday 30th September – 9.30am – 1pm 
 Saturday 30th September – 1pm – 3.30pm 
 Saturday 14th October – 9.30am – 1pm 
