@@ -1,9 +1,25 @@
 ---
-title: New news item
+title: "'Telling the Bees,' visit Wybourn Community Primary School"
 date: 2017-07-24 23:21:00 Z
 categories:
 - news
 layout: post
 ---
 
-here's some project news.
+All of us here at ‘Telling the Bees’ had a fantastic day at Wybourn Community Primary School in Sheffield. Previously, both year five classes have been working very hard with the project team to create futuristic design concepts to try and solve the problems we’ll face if our approaching bee crisis happens. These problems included the use of pesticides, invading species (such as Asian hornets), lack of food due to reduced pollination and the rise in expensive honey (or no honey at all!) if bee numbers decrease. The children spent a lot of time conceptualising, building, and refining inventive models of their designs through sketching, drama, writing, junk modelling and digital 3D models, which we have 3D printed in solid prototypes. 
+
+[model wybourn school.PNG](/uploads/model%20wybourn%20school.PNG) 
+
+In addition, each group wrote their own newspaper, brimming over with adverts, articles, drawings, jokes and poems. But the unique thing about these papers is that they are set in a future the world is approaching, a future where bees are close to extinction and humanities place in the world is jeopardised. The world’s only hope is a team of inventive young designers!   
+
+[newspaper.PNG](/uploads/newspaper.PNG) 
+
+These creative designs include: a set of armour designed specifically to fit the bee to provide protection when encountering predators; a beehive for every shop to increase the number of bees and reduce cost of honey; a laser bee wash to exterminate parasites that are dangerous for the bee; and an elixir for humans which they can use to shrink to the size of a bee and teach them how to survive battles against predators.  
+
+[scanner.PNG](/uploads/scanner.PNG) 
+
+[hive hotel.JPG](/uploads/hive%20hotel.JPG)
+
+Like a large swarm of busy bees, we brought each class into ‘The Discovery Centre’ to speedily set up their displays, racing against time! Each group proudly showcased their newspapers, design worksheets and sketches, design model and 3D print, alongside ongoing videos of their dramas. It was a haven dedicated to raising awareness of bees and their role in the environment!   
+
+After school, parents and pupils alike came to see what Wybourn School have been working on for the past few weeks, whilst sharing a coffee and a cake. It was truly wonderful to see a community come together to appreciate the hard work of the pupils. Well done Wybourn! 
