@@ -8,7 +8,7 @@ categories:
 York Learning are hosting a number of free workshops inspired by pollination, to help educate the public in global environmental issues surrounding the decline of bees. 
 This will be done by creating a number of hexagons filled with artwork inspired by pictures of pollen seen through a microscope. These individual hexagons will be combined into a large mural, which will be shown during out exhibition in October, and put on display at York Explore. 
 
-![PolliNation image.jpg](/uploads/PolliNation%20image.jpg)
+![PolliNation 2 .jpg](/uploads/PolliNation%202%20.jpg)
 Just a small number of the hexagons that will make up the final mural. Photo Credit: Claire Douglas  
 
 **The remaining dates and times are as follows:**  
