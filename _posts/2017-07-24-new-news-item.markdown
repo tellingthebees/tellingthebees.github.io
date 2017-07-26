@@ -8,7 +8,7 @@ layout: post
 
 All of us here at ‘Telling the Bees’ had a fantastic day at Wybourn Community Primary School in Sheffield. Previously, both year five classes have been working very hard with the project team to create futuristic design concepts to try and solve the problems we’ll face if our approaching bee crisis happens. These problems included the use of pesticides, invading species (such as Asian hornets), lack of food due to reduced pollination and the rise in expensive honey (or no honey at all!) if bee numbers decrease. The children spent a lot of time conceptualising, building, and refining inventive models of their designs through sketching, drama, writing, junk modelling and digital 3D models, which we have 3D printed in solid prototypes. 
 
-[model wybourn school.PNG](/uploads/model%20wybourn%20school.PNG) 
+[bee armour.PNG](/uploads/bee%20armour.PNG)
 Bee Armour - the armour provides protection for the bees against predators such as Hornets. 
 
 In addition, each group wrote their own newspaper, brimming over with adverts, articles, drawings, jokes and poems. But the unique thing about these papers is that they are set in a future the world is approaching, a future where bees are close to extinction and humanities place in the world is jeopardised. The world’s only hope is a team of inventive young designers!   
