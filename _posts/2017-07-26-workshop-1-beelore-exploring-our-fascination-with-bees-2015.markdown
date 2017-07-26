@@ -3,6 +3,8 @@ title: 'Workshop 1: Beelore – Exploring our Fascination with Bees 2015'
 date: 2017-07-26 09:36:00 Z
 categories:
 - prev-work
+tags:
+- prev-work
 ---
 
 Our first workshop in July 2015 explored the world of bees and beekeeping, looking at traditional and current stories and their scientific basis. Before the workshop, the project team had spent some time trying to get our heads around the basics of bees and beekeeping, by interviewing beekeepers, going out on hive inspections, reading contemporary beekeeping literature and earlier manuscripts at the Moir Library collection at Fountainbridge and NLS Rare Books Collection (well worth a visit if you haven’t been!).
