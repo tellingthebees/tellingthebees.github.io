@@ -31,8 +31,8 @@ Each group used these themes and the discussions emerging from them to create a 
 
 After a break for lunch, Liz Edwards from Lancaster University’s Highwire centre showed us the work she’s been doing at the National Trust’s Clumber Park, which includes some beautifully turned wooden story apples that when plucked from the apple tree in their orchard tell the holder stories. You can read more about her work here: 
 
-[The Listening Orchard](http://www.lizedwards.net/wordpress/?p=262) 
-[The Rhubaphone](http://www.lizedwards.net/wordpress/?p=242)
+[The Listening Orchard](http://www.lizedwards.net/wordpress/?p=262){:target="_blank"  
+[The Rhubaphone](http://www.lizedwards.net/wordpress/?p=242){:target="_blank" 
 
 ![3-5f569e.jpg](/uploads/3-5f569e.jpg)
 
@@ -42,6 +42,6 @@ Liz’s talk presented sensitive examples of how technology could be embedded in
 
 By the end of the day we had created a new set of stories, made new friends and set the wheels in motion for the next follow on workshop!
 
-You can download the [inspiration cards](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2015/07/inspirationcards.pdf) here.
+You can download the [inspiration cards](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2015/07/inspirationcards.pdf){:target="_blank"  here.
 
 *Workshop 1 took place on Tuesday 21st July, 2015, at Perth Subud Centre, Scotland.*
