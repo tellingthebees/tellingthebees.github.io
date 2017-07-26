@@ -5,7 +5,7 @@ categories:
 - Events
 ---
 
-We are hosting a number of free workshops inspired by pollination, to help educate the public in global environmental issues surrounding the decline of bees. 
+York Learning are hosting a number of free workshops inspired by pollination, to help educate the public in global environmental issues surrounding the decline of bees. 
 This will be done by creating a number of hexagons filled with artwork inspired by pictures of pollen seen through a microscope. These individual hexagons will be combined into a large mural, which will be shown during out exhibition in October, and put on display at York Explore. 
 
 ![PolliNation image.jpg](/uploads/PolliNation%20image.jpg)
@@ -21,3 +21,5 @@ Saturday 14th October – 9.30am – 1pm
 Saturday 14th October - 1pm – 3.30pm 
 
 The event takes place at Explore York Library Learning Centre and is free, but [booking](http://www.yortime.org.uk/yortime_home/search.aspx?ddlone=0&ddltwo=0&textfield=pollination&submit=Submit) is necessary to secure a place. 
+
+![york learning.png](/uploads/york%20learning.png)
