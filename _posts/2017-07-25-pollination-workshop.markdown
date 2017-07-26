@@ -14,10 +14,15 @@ Just a small number of the hexagons that will make up the final mural.
 **The remaining dates and times are as follows:**  
 
 Thursday 10th August – 10.00am – 1.30pm 
+
 Monday 21st August – 10am – 1.30pm
+
 Saturday 30th September – 9.30am – 1pm 
+
 Saturday 30th September – 1pm – 3.30pm 
+
 Saturday 14th October – 9.30am – 1pm 
+
 Saturday 14th October - 1pm – 3.30pm 
 
 The event takes place at Explore York Library Learning Centre and is free, but [booking](http://www.yortime.org.uk/yortime_home/search.aspx?ddlone=0&ddltwo=0&textfield=pollination&submit=Submit) is necessary to secure a place. To find out more, contact Claire Douglas at claire.douglas@york.gov.uk or 07990 774420.
