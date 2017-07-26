@@ -1,6 +1,8 @@
 ---
 title: The Story Comb Boxes
 date: 2017-07-26 09:07:00 Z
+categories:
+- prev-work
 tags:
 - previous work
 ---
