@@ -21,8 +21,8 @@ bees creating street art – e.g. as a bee beard, or random poo patterning on wh
 
 The below tag cloud hints at some of the ideas. You can read the full list of ideas here:
 
-[ideas from workshop 1](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop1.pdf)
-[ideas from workshop 2](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop2.pdf)
+[ideas from workshop 1](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop1.pdf){:target="_blank" 
+[ideas from workshop 2](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop2.pdf){:target="_blank" 
 
 ![2.png](/uploads/2.png)
 
