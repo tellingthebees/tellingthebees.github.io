@@ -3,6 +3,8 @@ title: Bee Stories
 date: 2017-07-26 09:25:00 Z
 categories:
 - prev-work
+tags:
+- prev-work
 ---
 
 Telling the Bees went out to three primary schools in Tayside with our partner, TayLP. We worked with a group of students in each school, assisted by a local beekeeper, Steve Fulton (to whom we are very grateful!). We spent a day with each group, Steve told the classes about bees, children got a chance to try on a bee suit, spot a queen in an observation hive, and ask all the questions they wanted! We then asked the class to come up with their own stories on bees, writing them in three parts and illustrating them. Mo Odling (independent artist and project collaborator) had designed and built some beautiful storyboxes to hold these stories (read more about the story boxes here). Each day finished with the children decorating their own storybox ‘doors’ that would open onto the stories.
