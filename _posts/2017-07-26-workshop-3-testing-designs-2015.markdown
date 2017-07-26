@@ -2,7 +2,7 @@
 title: 'Workshop 3: Testing Designs 2015'
 date: 2017-07-26 09:40:00 Z
 categories:
-- Previous Work
+- prev-work
 ---
 
 Armed with four prototypes produced by our brilliant designer Liz Edwards, our third workshop was somewhat of a evaluation session: what works, what doesn’t, what could be made better?
