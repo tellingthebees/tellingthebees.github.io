@@ -27,4 +27,4 @@ Saturday 14th October: 1pm – 3.30pm
 
 The event takes place at Explore York Library Learning Centre and is free, but [booking](http://www.yortime.org.uk/yortime_home/search.aspx?ddlone=0&ddltwo=0&textfield=pollination&submit=Submit) is necessary to secure a place. To find out more, contact Claire Douglas at claire.douglas@york.gov.uk or 07990 774420.
 
-![york learning.png](/uploads/york%20learning.png)
+![york learning.png](/uploads/york%20learning.png){:target="_blank"}
