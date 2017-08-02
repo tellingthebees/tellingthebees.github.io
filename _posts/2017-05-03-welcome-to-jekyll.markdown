@@ -4,7 +4,6 @@ date: 2017-05-03 14:31:00 Z
 categories:
 - jekyll
 - update
-- events
 layout: post
 ---
 
