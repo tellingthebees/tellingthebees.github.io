@@ -3,6 +3,7 @@ title: PolliNation Workshop News
 date: 2017-08-02 09:02:00 Z
 categories:
 - news
+layout: post
 ---
 
 If you want a taster of the PolliNation workshops, then have a look at this video which was featured on York TV! 
