@@ -14,10 +14,10 @@ Later that week, I had the pleasure of actually visiting Wybourn. The pupils had
 
 The following week, I did a similar sort of thing. I complied the newspapers, transcribed the writing, edited the pictures…oh and I also got a close look at a rooftop beehive.
 
-This was an exhilarating experience that I’m not likely to forget anytime soon. We all got dressed up in large bee suits, which made me look a little like an extra-terrestrial being, before journeying up to the roof where the hive is located. I watched a little tentatively, as the beekeeper took apart the hive to ensure it was functioning properly. And I kid you not; there must have been thousands. I even got to hold one of the frames of the hive.
+This was an exhilarating experience that I’m not likely to forget anytime soon. We all got dressed up in large bee suits, which made me look a little like an extra-terrestrial being, before journeying up to the roof where the hive is located. I watched beekeeper Julia ([https://twitter.com/yonderhoney)](https://twitter.com/yonderhoney) little tentatively, as the beekeeper took apart the hive to ensure it was functioning properly. And I kid you not; there must have been thousands. I even got to hold one of the frames of the hive.
 
 The adventures of that day were far from over. That same day, I left with Debbie and another intern to have a stall at Kew botanical gardens in London to show members of the public the beespoon and teach them how to make origami flowers. Well, that was the plan anyway, until the beespoon didn’t show up.
 
-Nevertheless, we decided to use this opportunity to have a look around the botanical gardens as research – and it would be safe to say that the gardens are a bee heaven, with thousands of beautiful flowers and loads of bees. I even managed to get some photographs of bees at work.One of the most interesting things I discovered that day was the method that bees use to communicate – they hear through sound vibrations! 
+Nevertheless, we decided to use this opportunity to have a look around the botanical gardens as research – and it would be safe to say that the gardens are a bee heaven, with thousands of beautiful flowers and loads of bees. I even managed to get some photographs of bees at work.One of the most interesting things I discovered that day was the method that bees use to communicate – they hear through sound vibrations!
 
 ![bee on flower resized.jpg](/uploads/bee%20on%20flower%20resized.jpg)
