@@ -3,8 +3,7 @@ title: Bee Stories
 date: 2017-07-26 09:25:00 Z
 categories:
 - prev-work
-tags:
-- prev-work
+layout: post
 ---
 
 Telling the Bees went out to three primary schools in Tayside with our partner, TayLP. We worked with a group of students in each school, assisted by a local beekeeper, Steve Fulton (to whom we are very grateful!). We spent a day with each group, Steve told the classes about bees, children got a chance to try on a bee suit, spot a queen in an observation hive, and ask all the questions they wanted! We then asked the class to come up with their own stories on bees, writing them in three parts and illustrating them. Mo Odling (independent artist and project collaborator) had designed and built some beautiful storyboxes to hold these stories (read more about the story boxes here). Each day finished with the children decorating their own storybox ‘doors’ that would open onto the stories.
@@ -13,7 +12,7 @@ After the workshops we printed out the stories and placed them into the decorate
 
 There were stories about wasps stealing honey, drones with superhero costumes who saved the queen, the healing powers of honey, and waggle dance-offs. In short, the children came up with some brilliant, highly imaginative ideas! Here you can read all the stories.
 
-##Errol Primary School 
+##Errol Primary School
 
 One day on a rainy day in an orchard there lived four bees. Honey, Blossom, Daisy and Heather were very adventurous bees, they loved to escape from the hive. There was one drone and three workers. They loved to play pranks and didn’t do their jobs.
 
@@ -135,7 +134,7 @@ By Alice, Grace, Arun and Erin
 
 ![13-f29033.jpg](/uploads/13-f29033.jpg)
 
-##St Madoes Primary School 
+##St Madoes Primary School
 
 Lewis went to Madagascar for a two week holiday. He went there to see his Dad who has a friend who is a beekeeper. One day Lewis’ Dad took Lewis to see the bees and the process of honey. Lewis was really interested in the bees. He thought to himself that he would like to have bees of his own but he couldn’t take them home.
 

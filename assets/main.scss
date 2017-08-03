@@ -15,6 +15,15 @@ h1, h2, h3, h4, nav {
   color: #333;
 }
 
+h1.page-heading {
+  font-size: 2.1em;
+}
+.image-caption {
+  font-size: 0.9em;
+  font-style: italic;
+  padding:0;
+  margin-top: -12px;
+}
 .header-image {
   height: 250px;
   margin: 0;
@@ -41,11 +50,24 @@ img.header-image {
   letter-spacing: normal;
   transition: all 0.3s ease;
 }
+a, a:visited {
+    color: #99935D;
+    /*color: #7F6D41;
+    color: #999;
+    color: #bac5c2;*/
+    font-family: 'Quattrocento Sans', sans-serif;
+    transition: all 0.3s ease;
+}
+a:hover {
+  color: #888;
+}
+
 a.site-title {
   margin-left: 0;
 }
 .page-link {
   transition: all 0.3s ease;
+  font-family: 'Lusitana', serif;
 }
 a.page-link:hover {
   color: grey;
@@ -94,7 +116,6 @@ p.footer-heading {
 }
 .footer-col-3{
   width: calc(60% - (30px / 2));
-
   margin: 0;
   float: right;
   font-size: 0.85em;
@@ -115,4 +136,25 @@ p.footer-heading {
 }
 .post-content {
   margin-top: 10px;
+}
+.image-profile img {
+  clear: both;
+  float: left;
+  width: 120px;
+  height: 150px;
+  object-fit: cover;
+  -webkit-filter: grayscale(1);
+	-webkit-filter: grayscale(100%);
+	filter: gray;
+	filter: grayscale(100%);
+  border: 2px solid #555;
+  margin: 3px 12px 12px 0;
+}
+
+h3.profile-title {
+  font-size: 1.2em;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  margin-top: 8px;
 }

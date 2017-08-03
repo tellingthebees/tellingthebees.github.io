@@ -1,14 +1,17 @@
 ---
 title: Research
 permalink: "/research/"
-layout: default
+show_header_image: true
+header_image: 3dprint
+header_image_alt: 3D printing a design fiction
+layout: home
 ---
 
 
 ## Publications
-Publications from the project are... 
+Publications from the project are...
 
-### [Beebots-a-lula, Where's my Honey? Design Fictions and Beekeeping. ](http://dl.acm.org/citation.cfm?doid=2971485.2993924) 
+### [Beebots-a-lula, Where's my Honey? Design Fictions and Beekeeping. ](http://dl.acm.org/citation.cfm?doid=2971485.2993924)
 
 The honey bee is a powerful cultural motif that remains an important symbol for the future. Their role as pollinators, alongside a myriad of other species, is critical to the continued diets of humankind. This Future Scenario explores a possible near future where human intervention poses new risks to their survival. Drawing on folklore and contemporary beekeeping practices, Mr Shore's Downfall tells a tale of discovery and loss as a young beekeeper is introduced to the world of honey bees. Three imagined artefacts are revealed through the story and discussed with consideration of their cultural context, desirability and relation to socio-economic factors. Themes from Mr Shore's Downfall are examined, and the potential of writing practice for design fiction practitioners is considered. [Source](https://pure.york.ac.uk/portal/en/publications/beebotsalula-wheres-my-honey(e076cfd1-bd1c-4fa2-aa02-ca36f3eda190).html)
 

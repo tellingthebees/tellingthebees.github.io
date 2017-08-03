@@ -3,8 +3,7 @@ title: 'Workshop 3: Testing Designs 2015'
 date: 2017-07-26 09:40:00 Z
 categories:
 - prev-work
-tags:
-- prev-work
+layout: post
 ---
 
 ![1-8fafc8.jpg](/uploads/1-8fafc8.jpg)

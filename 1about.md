@@ -1,7 +1,10 @@
 ---
 title: About
 permalink: "/about/"
-layout: default
+show_header_image: true
+header_image: bumble
+header_image_alt: A busy bumblebee
+layout: home
 ---
 
 ## About Telling the Bees

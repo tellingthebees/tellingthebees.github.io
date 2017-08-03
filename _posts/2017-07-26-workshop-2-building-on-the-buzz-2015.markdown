@@ -3,8 +3,7 @@ title: 'Workshop 2: Building on the Buzz 2015'
 date: 2017-07-26 09:37:00 Z
 categories:
 - prev-work
-tags:
-- prev-work
+layout: post
 ---
 
 Our second workshop took place in August 2015 and built on the stories and ideas generated in our first workshop. The day kicked off with a quick recap of the four main stories that came out of the previous event, and after a quick woolly interconnected icebreaker (see below!) everyone got down to thinking about new, innovative ways to share information about bees and beekeeping.
@@ -21,8 +20,8 @@ bees creating street art – e.g. as a bee beard, or random poo patterning on wh
 
 The below tag cloud hints at some of the ideas. You can read the full list of ideas here:
 
-[ideas from workshop 1](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop1.pdf){:target="_blank"} 
-[ideas from workshop 2](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop2.pdf){:target="_blank"} 
+[ideas from workshop 1](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop1.pdf){:target="_blank"}
+[ideas from workshop 2](http://www.bees.eca.ed.ac.uk/wp-content/uploads/2016/03/ideasfromworkshop2.pdf){:target="_blank"}
 
 ![2.png](/uploads/2.png)
 

@@ -1,6 +1,9 @@
 ---
 title: 'Learning the Bees: Blog post from Project Intern #1'
 date: 2017-08-02 09:08:00 Z
+categories:
+- prev-work
+layout: post
 ---
 
 Hello everyone – beekeepers and bee enthusiasts alike.
@@ -14,9 +17,9 @@ Later that week, I had the pleasure of actually visiting Wybourn. The pupils had
 
 The following week, I did a similar sort of thing. I complied the newspapers, transcribed the writing, edited the pictures…oh and I also got a close look at a rooftop beehive.
 
-This was an exhilarating experience that I’m not likely to forget anytime soon. We all got dressed up in large bee suits, which made me look a little like an extra-terrestrial being, before journeying up to the roof where the hive is located. I watched beekeeper Julia ([https://twitter.com/yonderhoney)](https://twitter.com/yonderhoney){:target="_blank"} little tentatively, as she took apart the hive to ensure it was functioning properly. And I kid you not; there must have been thousands. I even got to hold one of the frames of the hive. 
+This was an exhilarating experience that I’m not likely to forget anytime soon. We all got dressed up in large bee suits, which made me look a little like an extra-terrestrial being, before journeying up to the roof where the hive is located. I watched beekeeper Julia ([https://twitter.com/yonderhoney)](https://twitter.com/yonderhoney){:target="_blank"} little tentatively, as she took apart the hive to ensure it was functioning properly. And I kid you not; there must have been thousands. I even got to hold one of the frames of the hive.
 
-![tftv bees 2-4f9328.jpg](/uploads/tftv%20bees%202-4f9328.jpg) 
+![tftv bees 2-4f9328.jpg](/uploads/tftv%20bees%202-4f9328.jpg)
 
 ![tftv bees.jpg](/uploads/tftv%20bees.jpg)
 

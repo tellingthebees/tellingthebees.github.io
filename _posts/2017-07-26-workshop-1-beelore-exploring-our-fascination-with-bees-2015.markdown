@@ -3,8 +3,7 @@ title: 'Workshop 1: Beelore – Exploring our Fascination with Bees 2015'
 date: 2017-07-26 09:36:00 Z
 categories:
 - prev-work
-tags:
-- prev-work
+layout: post
 ---
 
 Our first workshop in July 2015 explored the world of bees and beekeeping, looking at traditional and current stories and their scientific basis. Before the workshop, the project team had spent some time trying to get our heads around the basics of bees and beekeeping, by interviewing beekeepers, going out on hive inspections, reading contemporary beekeeping literature and earlier manuscripts at the Moir Library collection at Fountainbridge and NLS Rare Books Collection (well worth a visit if you haven’t been!).
@@ -29,10 +28,10 @@ If thou wilt have the favor of thy bees, that they sting thee not, thou must avo
 
 Each group used these themes and the discussions emerging from them to create a new story. These co-created stories picked up on the themes, for instance: a young bee called Honey out on her first foraging trip avoiding the smell of dogs and spotting nectar guides on flowers; or the story of magical healing bees who were stolen by a would-be beekeeper who didn’t understand their temperament or how to work with them; or the explanation of how bees might find a new home through bee communication (including head butting!).
 
-After a break for lunch, Liz Edwards from Lancaster University’s Highwire centre showed us the work she’s been doing at the National Trust’s Clumber Park, which includes some beautifully turned wooden story apples that when plucked from the apple tree in their orchard tell the holder stories. You can read more about her work here: 
+After a break for lunch, Liz Edwards from Lancaster University’s Highwire centre showed us the work she’s been doing at the National Trust’s Clumber Park, which includes some beautifully turned wooden story apples that when plucked from the apple tree in their orchard tell the holder stories. You can read more about her work here:
 
 [The Listening Orchard](http://www.lizedwards.net/wordpress/?p=262){:target="_blank"  
-[The Rhubaphone](http://www.lizedwards.net/wordpress/?p=242){:target="_blank" 
+[The Rhubaphone](http://www.lizedwards.net/wordpress/?p=242){:target="_blank"
 
 ![3-5f569e.jpg](/uploads/3-5f569e.jpg)
 

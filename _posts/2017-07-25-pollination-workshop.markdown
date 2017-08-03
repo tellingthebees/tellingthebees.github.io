@@ -3,6 +3,7 @@ title: PolliNation Workshop
 date: 2017-07-25 11:12:00 Z
 categories:
 - events
+layout: post
 ---
 
 York Learning are hosting a number of free workshops inspired by pollination, to help educate the public in global environmental issues surrounding the decline of bees.

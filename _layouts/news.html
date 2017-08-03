@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-
+<div class="header-image">
+  <img class="header-image" src="{{"/assets/headers/" | append: page.header_image | append: ".jpg"}}" alt="{{ page.header_image_alt }}">
+</div>
+<div class="wrapper">
   <div class="home">
     <h1 class="page-heading">Telling the Bees News</h1>
 
@@ -20,3 +23,4 @@ layout: default
         {% endfor %}
       </ul>
     </div>
+  </div>
