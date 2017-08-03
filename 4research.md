@@ -7,7 +7,6 @@ header_image_alt: 3D printing a design fiction
 layout: home
 ---
 
-
 ## Publications
 Publications from the project are...
 
