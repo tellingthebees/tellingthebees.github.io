@@ -25,10 +25,10 @@ challenges facing pollinators and the honey bee.
 We have been working with Year 5 pupils from Manor Lodge and Wybourn Community Primary Schools in Sheffield to design imaginative Future Folklore prototypes that will either help save bees from extinction or replace them when they're gone.
 
 2. **Repackaging the Beespoon**  
-Our amazing [Beespoon](http://www.tellingthebees.buzz/beespoon/) is being rebuilt anew in a much portable and durable format. Once finished, we will experiment with new forms of ownership by sending it 'on tour' to local beekeeping associations and education providers for use at their engagement events.
+Our amazing [Beespoon](http://www.tellingthebees.buzz/beespoon/) interactive exhibit is being rebuilt anew in a much portable and durable format. Once finished, we will experiment with new forms of ownership by sending it 'on tour' to local beekeeping associations and education providers for use at their engagement events.
 
 3. **Widening Public Engagement**  
 We are attending a number of high profile events and festivals throughout the year. In collaboration with Explore York Libraries and Archives, we are also hosting a series of bee-themed workshops, events and exhibitions in the Autumn half-term.
 
 4. **Commercialisation**  
-We are exploring ways to commercialise (manufacture and sell) the Beespoon, while navigating through the complicated ethical issues associated with making money from product co-designed with community groups.
+We are exploring ways to commercialise (manufacture and sell) the [Beespoon](http://www.tellingthebees.buzz/beespoon/), while navigating through the complicated ethical issues associated with making money from product co-designed with community groups.
