@@ -2,7 +2,7 @@
 title: 'Learning the Bees: Blog post from Project Intern #1'
 date: 2017-08-02 09:08:00 Z
 categories:
-- prev-work
+- news
 layout: post
 ---
 
