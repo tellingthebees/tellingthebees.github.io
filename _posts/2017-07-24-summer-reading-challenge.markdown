@@ -1,5 +1,5 @@
 ---
-title: Summer Reading Challenge
+title: Summer Reading Challenge (14-15 Aug)
 date: 2017-07-24 22:52:00 Z
 categories:
 - events

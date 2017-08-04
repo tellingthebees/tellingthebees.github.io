@@ -1,5 +1,5 @@
 ---
-title: PolliNation Workshop
+title: PolliNation Workshops (Aug-Oct)
 date: 2017-07-25 11:12:00 Z
 categories:
 - events
