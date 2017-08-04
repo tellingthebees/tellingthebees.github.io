@@ -17,7 +17,8 @@ baseurl: ''
 url: ''
 twitter_username: tellingthebees
 twitter_hashtag: tellingthebees
-github_username: 
+facebook: tellingthebeesproject
+github_username:
 logo: logo.png
 markdown: kramdown
 theme: minima

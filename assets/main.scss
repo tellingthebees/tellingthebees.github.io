@@ -77,11 +77,21 @@ a.site-title:hover {
   text-decoration: none;
   color: #c99a2a;
 }
+
+a.footer-heading {
+    text-decoration: underline;
+    font-size: 12px;
+}
+
 img.site-logo {
   max-width: 50px;
   float:left;
   padding: 2px;
   margin-right: 6px;
+}
+
+.social-media {
+  font-size: 16px !important;
 }
 .site-header {
   background: -o-linear-gradient(left, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
@@ -102,12 +112,19 @@ img.site-logo {
 }
 /*footer */
 p.footer-heading {
-  font-size: 12px;
-  text-align: right;/*
-  border-top: 1px solid #e8e8e8;
-  border-top: 1px solid #eee;*/
+  font-size: 0.9em;
+  /*font-size: 0.8em;*/
+  text-align: left;
   color: #828282;
-  padding-top: 4px;
+  padding-top: 0px;
+  margin-bottom: 5px;
+}
+p.footer-funder {
+  border-top: 1px solid #ccc;
+  text-align: right;
+  font-size: 12px;
+  padding-top: 5px;
+  margin-top: 15px;
 }
 .footer-col-1{
   width: calc(40% - (30px / 2));
@@ -126,13 +143,16 @@ p.footer-heading {
 }
 .site-footer {
   padding-top: 10px;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 .footer-logo {
-  height: 60px;
+  height: 50px;
   object-fit: contain;
-  max-width: 150px;
-  margin: 3px 8px;
+  max-width: 115px;
+  margin: 3px 7px;
   padding: 0;
+
 }
 .post-content {
   margin-top: 10px;
@@ -149,7 +169,7 @@ p.footer-heading {
 	filter: grayscale(100%);
   border: 3px solid #fff;
   margin: 3px 12px 12px 0;
-  
+
 }
 
 h3.profile-title {
