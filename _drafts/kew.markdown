@@ -1,0 +1,14 @@
+---
+title: 'Buzzing about with the Beespoon: The Royal Botanic Gardens, Kew'
+date: 2017-08-07 15:33:00 Z
+categories:
+- news
+tags:
+- Beespoon
+---
+
+This weekend we had the pleasure to present our interactive Beespoon exhibit at Kew Gardens as part of their Insect Adventure Camp. It wasn’t all plain sailing. We soon discovered that our equipment had been damaged while being couriered from Lancaster: some of the perspex base had been smashed, and the electronic button used to control the pump had fallen apart. Cue frantic, duct tape-fuelled ministrations as we hastily reconstructed the stand. Then, after some hunting around for some very small springs, we managed to put the electronic button back together. The day ended as smoothly as it started, with the wheels on Beespoon’s suitcase completely disintegrating. It was more than a little hard work getting it back to the station and through London’s tube system without wheel-ability. Thankfully, our brilliant volunteer for the day, David, managed to secure us one of Kew’s wheelchairs to at least make the first part of the journey bearable – thank you David!
+
+In between these trials and tribulations, the day went brilliantly. We saw over 200 paper flowers produced, and many more interested people who just stopped for a chat, or to see others push the magic honey button. Perhaps the highlight of the day was a party of older folks, out for a Sunday walk, taking the time to sit down and make us some flowers. They produced the loudest cheer of the day when one of their button presses elicited the elusive drop of honey onto the Beespoon. Later in the day, a similarly excited young man literally ran around in circles cheering when, after completing numerous flowers, his own press resulted in a drip. 
+
+Our next stop with the Beespoon is at Gloworm Festival at Clumber Park on Sunday 20th August – we hope to see you there!
