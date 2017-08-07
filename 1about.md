@@ -8,7 +8,7 @@ layout: home
 ---
 
 ## About Telling the Bees
-Telling the Bees is a 12-month AHRC connected communities follow on project that builds on outputs from an earlier Telling the Bees project. We are engaging with new audiences, bringing drama, design, storytelling and the maker (or hacker) movement together to explore playful, immersive ways to understand global environmental issues and share future visions about bees and beekeeping. Telling the Bees is a collaboration between the universities of York, Sheffield and Lancaster, and between GrowTheatre and York Explore.
+Telling the Bees is a 12-month (Feb 2017 - Jan 2018) AHRC connected communities follow on project that builds on outputs from an earlier project (somewhat confusingly also called Telling the Bees). We are engaging with new audiences, bringing drama, design, storytelling and the maker (or hacker) movement together to explore playful, immersive ways to understand global environmental issues and share future visions about bees and beekeeping. Telling the Bees is a collaboration between the universities of York, Sheffield and Lancaster, and between GrowTheatre and York Explore.
 
 ### What is "Telling the Bees?"
 Telling the Bees is an old tradition in England and Wales, where beekeepers (or their families) would tell their bees of important family events (like births, deaths, marriages) so that their bees would stay healthy and wouldn't swarm.
