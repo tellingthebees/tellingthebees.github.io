@@ -6,6 +6,7 @@ header_image: 3dprint
 header_image_alt: 3D printing a design fiction
 layout: home
 ---
+
 Beekeeping has changed radically since the advent of the varroa destructor (a parasitic mite), first discovered in the UK in the 1990s, with beekeepers now having to adopt more ‘hands on’ management practices to keep varroa in check. Meanwhile, bees and beekeeping are experiencing a surge in interest, as evidenced by an ever-growing body of work in arts and literature.4 Such interventions recognise the honey bee as a powerful cultural symbol, and are mindful of global challenges concerning food security and production.
 
 ## Publications

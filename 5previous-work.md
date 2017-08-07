@@ -6,6 +6,7 @@ header_image: skep
 header_image_alt: Close up of a skep, a traditional beehive.
 layout: home
 ---
+
 ## Previous Work
 
 The first Telling the Bees project ([AH/M009319/1](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F1){:target="_blank"} & [AH/M009319/2](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F2){:target="_blank"} ) was a multi-institution, interdisciplinary Connected Communities-funded project (Apr 2015 - Oct 2016) examining the rich folklore, traditions and contemporary practices of beekeeping. This was a collaboration between universities of Edinburgh (Maxwell, PI), Sheffield (Pillatt, Co-I) and Falmouth (Downing, Co-I) and project partner Tay Landscape Partnership. We were joined by Designer Liz Edwards (Lancaster University), Artist Morvern Odling (Edinburgh), and advisory group ()
