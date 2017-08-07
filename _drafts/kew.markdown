@@ -11,4 +11,4 @@ This weekend we had the pleasure to present our interactive Beespoon exhibit at 
 
 In between these trials and tribulations, the day went brilliantly. We saw over 200 paper flowers produced, and many more interested people who just stopped for a chat, or to see others push the magic honey button. Perhaps the highlight of the day was a party of older folks, out for a Sunday walk, taking the time to sit down and make us some flowers. They produced the loudest cheer of the day when one of their button presses elicited the elusive drop of honey onto the Beespoon. Later in the day, a similarly excited young man literally ran around in circles cheering when, after completing numerous flowers, his own press resulted in a drip. 
 
-Our next stop with the Beespoon is at Gloworm Festival at Clumber Park on Sunday 20th August – we hope to see you there!
+Our next stop with the Beespoon is at [Gloworm Festival](http://glowormfestival.co.uk/) at Clumber Park on Sunday 20th August – we hope to see you there!
