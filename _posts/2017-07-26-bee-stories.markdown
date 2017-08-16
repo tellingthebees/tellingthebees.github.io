@@ -12,77 +12,89 @@ After the workshops we printed out the stories and placed them into the decorate
 
 There were stories about wasps stealing honey, drones with superhero costumes who saved the queen, the healing powers of honey, and waggle dance-offs. In short, the children came up with some brilliant, highly imaginative ideas! Here you can read all the stories.
 
-##Errol Primary School
+## Errol Primary School
 
-One day on a rainy day in an orchard there lived four bees. Honey, Blossom, Daisy and Heather were very adventurous bees, they loved to escape from the hive. There was one drone and three workers. They loved to play pranks and didn’t do their jobs.
+**One day** on a rainy day in an orchard there lived four bees. Honey, Blossom, Daisy and Heather were very adventurous bees, they loved to escape from the hive. There was one drone and three workers. They loved to play pranks and didn’t do their jobs.
 
 On a very hot day they escaped from the hive but when they were a few miles away from the hive they saw a flaming fire. They flew as fast as lightning back to the hive but it was on fire! There were wasps stealing their honey.
 
 They all decided to hunt for a new home somewhere else. A few minutes later it started to rain, they found shelter and when the cold thawed they found a new hive!
 
-By Anna, Mairi, Cameron, Olivia
+_By Anna, Mairi, Cameron, Olivia_
 
 ![2-69e85a.jpg](/uploads/2-69e85a.jpg)
 
-It was a crazy, wet night. The thunder was roaring. Suddenly a flash of lightning hit the beehive. Benji and Leo ran and stole the bees except Bee One. He was the only bee left. He zoomed to his friends’ colony.
+----
+
+**It was** a crazy, wet night. The thunder was roaring. Suddenly a flash of lightning hit the beehive. Benji and Leo ran and stole the bees except Bee One. He was the only bee left. He zoomed to his friends’ colony.
 
 Bee One goes to find his friend and both of them went down a tunnel to get their superhero costumes on. Then they went to the Queen. He tells her the plan. Bee One stands on the Queen’s throne and says the plan.
 
 He shouts, “Bees of the colony, my colony has been stolen. I need your help to save my colony.” They all left the hive and went to Benji and Leo’s lair. When they got there they saw the bees trapped inside a jar. They stung Benji and Leo who ran away. Bee One and his friends died but the colony rescued his friends!
 
-By Charlie, Benjamin and Leo
+_By Charlie, Benjamin and Leo_
 
 ![3-f7fe59.jpg](/uploads/3-f7fe59.jpg)
 
-Once upon a time there was a beehive with a beautiful Queen in a garden with lots of flowers. But unfortunately there was a toddler who loved to kill bees. One morning he came out on his three-wheeled scooter. He came off his scooter and started kicking the box.
+----
+
+**Once upon** a time there was a beehive with a beautiful Queen in a garden with lots of flowers. But unfortunately there was a toddler who loved to kill bees. One morning he came out on his three-wheeled scooter. He came off his scooter and started kicking the box.
 
 The bees all flew out! “Oh no!” cried the toddler. “What’s the matter?” shouted the Dad. “Argh!” The bees were everywhere. Then the Dad gets all the bees back in the box. Then he finds out the Queen is missing and the Dad goes crazy at the toddler.
 
 But just then the Dad smelled smoke. The Dad ran. The toddler then fell over into the big toy car and went down a hill and fell onto the grass. He found the Queen bee and gives it to his Dad.
 
-By Charley, Blair, Euan, Fearne and Kyle
+_By Charley, Blair, Euan, Fearne and Kyle_
 
 ![4-f18c92.jpg](/uploads/4-f18c92.jpg)
 
-Once upon a time in an Orchard in the Carse of Gowrie there was a beekeeper called Steve. He has a son called Cristiano and a daughter called Lisa. Lisa likes the bees, Cristiano does not like the bees.
+----
+
+**Once upon** a time in an Orchard in the Carse of Gowrie there was a beekeeper called Steve. He has a son called Cristiano and a daughter called Lisa. Lisa likes the bees, Cristiano does not like the bees.
 
 Cristiano and Lisa go to the village. Cristiano wanders off and finds a girl he loves. Meanwhile Lisa was getting flowers for the bees and went off to find Cristiano, who was playing with his girlfriend – playing football. Cristiano’s girlfriend went off home.
 
 Then Cristiano ran off to a shop that had nerf guns to shoot the bees. He shot the Queen bee, he hated bees. He hit a tree and the bullet hit him in the head. Lisa said “Stop!” She ran to Cristiano who was lying in the wet, stinky mud and he got told off by his Dad. He was in big, big trouble.
 
-By Holly, Matthew, Leilan, Sean and Ben
+_By Holly, Matthew, Leilan, Sean and Ben_
 
 ![5-27c64f.jpg](/uploads/5-27c64f.jpg)
 
-One day a boy called Bob ate a pot of honey. But it was magic honey and he didn’t know it and he tried to jump but he flew into a tree and met a bee called Dave. Dave was dazed and confused. “Hi” said Dave. “Hi”, said Bob and turned into a bee.
+----
+
+**One day** a boy called Bob ate a pot of honey. But it was magic honey and he didn’t know it and he tried to jump but he flew into a tree and met a bee called Dave. Dave was dazed and confused. “Hi” said Dave. “Hi”, said Bob and turned into a bee.
 
 Then he found a smoker, then was coughing in the smoke. Then he drank all the honey, then went bonkers. He went into the house and drank all their honey. Then he went super bonkers.
 
 And then dizzily he walked out of the house and tripped up on a stone and landed on a trampoline. And bounced up so high he ate the sun! And burned and landed in a pool of water and turned back into a boy.
 
-By Caoimhe, Lilly, Max, Lewis and Sandy
+_By Caoimhe, Lilly, Max, Lewis and Sandy_
 
 ![6-dfc842.jpg](/uploads/6-dfc842.jpg)
 
-There was a little girl called Katherine. She found a beehive in the attic. Lightning struck on the beehive, it caused it to attract bees. It was cool. They didn’t tell Mum. Then Katherine told Jonny that there was a beehive in the attic. She wanted to make it look beautiful.
+----
+
+**There was** a little girl called Katherine. She found a beehive in the attic. Lightning struck on the beehive, it caused it to attract bees. It was cool. They didn’t tell Mum. Then Katherine told Jonny that there was a beehive in the attic. She wanted to make it look beautiful.
 
 They put lovely stickers on it and made it sparkly. And put a nice pale blue ballgown on the queen bee. She filled the beehive with furniture and a throne. The bees went downstairs. Their gran came. She needed to sleep in the attic. Dun-dun-duuun!
 
 Gran was nice so she told her about the bees.
 
-By Oliwia, Morvyn, Robyn and Gemma
+_By Oliwia, Morvyn, Robyn and Gemma_
 
 ![7-f952aa.jpg](/uploads/7-f952aa.jpg)
 
-One sunny but cloudy day a Queen bee started to lose her drones. They froze! When the Queen noticed she went to the hive library where she found a book about curing bees. She read it and the book said there is one special flower that grows in Hide Farm. The Queen bee must collect the nectar and feed it to the drones and give them 2 days rest.
+----
+
+**One sunny** but cloudy day a Queen bee started to lose her drones. They froze! When the Queen noticed she went to the hive library where she found a book about curing bees. She read it and the book said there is one special flower that grows in Hide Farm. The Queen bee must collect the nectar and feed it to the drones and give them 2 days rest.
 
 So the Queen bee went off to get the nectar. On her way she was struck by lightning and she got knocked out for several hours. When she woke up it was the next morning. She was really hungry so she went to get nectar – but not from the special pollen flower, but she couldn’t fly so she had to walk. She finally found a good flower with lots of yummy yummy nectar. But suddenly when she climbed the flower she ate all the nectar and she could fly again.
 
 So she set off once again to collect special nectar to help her get to the hive. She said, “Thank you” and did a waggle dance to send out the drones to get more special nectar. She said “Eat this special nectar it will help you get better.” They did and they unfroze and lived happily ever after.
 
-By Billy
+_By Billy_
 
-##Longforgan Primary School
+## Longforgan Primary School
 
 It was a sunny day and it was Bobby the Bee’s birthday. For his breakfast he had bee bread and honey – it was his favourite meal ever. But the Queen bee was sick! Bobby was her favourite son and he wanted to make her feel better.
 
@@ -134,7 +146,7 @@ By Alice, Grace, Arun and Erin
 
 ![13-f29033.jpg](/uploads/13-f29033.jpg)
 
-##St Madoes Primary School
+## St Madoes Primary School
 
 Lewis went to Madagascar for a two week holiday. He went there to see his Dad who has a friend who is a beekeeper. One day Lewis’ Dad took Lewis to see the bees and the process of honey. Lewis was really interested in the bees. He thought to himself that he would like to have bees of his own but he couldn’t take them home.
 

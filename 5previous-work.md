@@ -37,6 +37,6 @@ From these, the Future Folklore idea chosen to prototype most fully was the Bees
 
 ## The Bee Story Boxes
 Additionally, a collaboration with 3 rural primary schools, an artist (Morvern Odling) and a beekeeper led to the development of story and making workshops, where children produced decorated wooden beehive boxes containing their own imaginative bee stories.
-* [Read more about the bee boxes](/prev-work/2017/07/26/the-story-comb-boxes.html)
+* [Read more about the bee boxes](/prev-work/2015/11/26/the-bee-story-boxes.html)
 * [Read the stories from the schools](/prev-work/2017/07/26/bee-stories.html)
 * [Read our "Bee Boxes: Designing Spaces for Stories" publication](https://figshare.com/articles/Bee_Boxes_Designing_Spaces_for_Stories/4747009){:target="_blank"}
