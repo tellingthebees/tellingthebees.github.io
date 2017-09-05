@@ -27,8 +27,8 @@ What I initially thought would be a fairly quick task, with it being a small pie
 
 My own attempt to make a hexagon.
 
-One thing that was particularly exciting was the presence of York Press, who wrote this article about the workshops and the project! –
-http://www.yorkpress.co.uk/news/15468795.We_need_to_talk_about_bees___/?ref=twtrec
+One thing that was particularly exciting was the presence of York Press, who wrote an [article](http://www.yorkpress.co.uk/news/15468795.We_need_to_talk_about_bees___/?ref=twtrec) about the workshops and the project! 
+
 In many ways, the artwork is only one benefit of the project. What was really brilliant was seeing members of the community come together to socialise and work on raising awareness for an important issue. Thank you to Claire and Donna for hosting such a lovely workshop!
 
 ![2017-08-10 11.00.18.jpg](/uploads/2017-08-10%2011.00.18.jpg)
