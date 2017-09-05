@@ -26,6 +26,7 @@ Once the members of the workshop had a good feel for how a bee views the world, 
 ![reading 2.jpg](/uploads/reading%202.jpg)
 
 ![readong 3.jpg](/uploads/readong%203.jpg)
+
 The UV Flowers
 
 Some groups were so quick at making the origami flowers that it gave us time to make some candles out of beeswax – which involved rolling a wick tightly into the wax, then using the warmth of our hands to mould the wax into a candle shape.
