@@ -3,9 +3,14 @@ title: 'PolliNation workshop: Post from Project Intern'
 date: 2017-09-05 13:17:00 Z
 categories:
 - news
+tags:
+- hexagons
+- pollen
+- polliNation
+- York Explore
 ---
 
-When I interviewed for this internship, I was told I’d be doing a wide range of things. Today, this was particularly true, as I had the pleasure of taking part in a PolliNation workshop at York Explore.
+When I interviewed for this internship, I was told I’d be doing a wide range of things. Today, this was particularly true, as I had the pleasure of taking part in a PolliNation workshop at [York Explore.](http://www.exploreyork.org.uk/york-explore/)
 
 The workshop involves making pieces of hexagonal artwork inspired by microscopic pictures of pollen for an exhibition that will be on display at York Explore Library in November in an attempt to raise awareness of bees and their role in the environment. I had an absolutely wonderful time, and I’d definitely encourage people to go. We even got a sneak preview of what the exhibition would be like in November.
 
