@@ -19,6 +19,7 @@ What I initially thought would be a fairly quick task, with it being a small pie
 ![pollination 5.jpg](/uploads/pollination%205.jpg)
 
 ![pollInatopm 4.jpg](/uploads/pollInatopm%204.jpg)
+
 My own attempt to make a hexagon.
 
 One thing that was particularly exciting was the presence of York Press, who wrote this article about the workshops and the project! –
