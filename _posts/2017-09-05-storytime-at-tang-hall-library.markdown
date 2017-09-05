@@ -1,8 +1,13 @@
 ---
 title: Storytime at Tang Hall Library
 date: 2017-09-05 13:39:00 Z
-tags:
+categories:
 - news
+tags:
+- beespoon
+- honey
+- bees
+- Tang Hall Library
 ---
 
 Making honey is a whole lot of work!
