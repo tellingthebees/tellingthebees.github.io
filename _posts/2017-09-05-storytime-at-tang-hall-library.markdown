@@ -1,6 +1,8 @@
 ---
 title: Storytime at Tang Hall Library
 date: 2017-09-05 13:39:00 Z
+tags:
+- news
 ---
 
 Making honey is a whole lot of work!
