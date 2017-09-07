@@ -17,7 +17,7 @@ It was a busy few days of chiselling, sawing and laser cutting, but the end resu
 
 ![building the beespoon 2.jpg](/uploads/building%20the%20beespoon%202.jpg)
 
-![building the beespoon 3.jpg](/uploads/building%20the%20beespoon%203.jpg)\
+![building the beespoon 3.jpg](/uploads/building%20the%20beespoon%203.jpg)
 
 ![building the beespoon 4.jpg](/uploads/building%20the%20beespoon%204.jpg)
 
