@@ -1,5 +1,5 @@
 ---
-title: Manchester Science Festival
+title: Manchester Science Festival (24th Oct)
 date: 2017-10-23 16:05:00 Z
 categories:
 - events
