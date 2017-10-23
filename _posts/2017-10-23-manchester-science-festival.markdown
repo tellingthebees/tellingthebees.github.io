@@ -12,7 +12,7 @@ Catch the Telling the Bees team at Manchester Science Festival, where you can he
 
 http://www.manchestersciencefestival.com/event/the-scienceworks
 
-The Printworks, 12-4pm Tuesday 24th October
+The Printworks, 12-4pm Tuesday 24th October  
 Free: Open to All
 
 
