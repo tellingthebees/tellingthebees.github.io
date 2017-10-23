@@ -18,6 +18,6 @@ The performance-lecture will take you through the past, present and future of be
 
 [https://beinghumanfestival.org/event/telling-the-bees/](https://beinghumanfestival.org/event/telling-the-bees/)
 
-3-4.30pm, Saturday 18th November
-The King's Manor, York
+3-4.30pm, Saturday 18th November  
+The King's Manor, York  
 Free: Booking essential.
