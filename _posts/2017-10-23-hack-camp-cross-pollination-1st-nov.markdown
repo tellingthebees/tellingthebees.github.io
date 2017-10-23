@@ -13,6 +13,6 @@ If you've heard of hackathons and Raspberry Pi Jams, you'll be all over this. If
 
 [https://www.exploreyork.org.uk/event/family-day-hack-media-camp-2017-cross-pollination/](https://www.exploreyork.org.uk/event/family-day-hack-media-camp-2017-cross-pollination/)
 
-Wednesday 1st November
-York Explore Library Learning Centre
-Free: Booking Essential
+Wednesday 1st November  
+York Explore Library Learning Centre  
+Free: Booking Essential  
