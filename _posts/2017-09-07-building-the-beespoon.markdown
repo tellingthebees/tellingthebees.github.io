@@ -23,6 +23,4 @@ It was a busy few days of chiselling, sawing and laser cutting, but the end resu
 
 Prior to my visit to Lancaster, Liz Edwards and researcher Dan Burnett had been working on soldering together the circuit boards to ensure the installation will function efficiently. Whilst I was there, they mainly focused on building the body of the installation, using a laser cutter to cut sheets of black and yellow Perspex into the app
 
-Our brand new and improved Beespoon will be available to see at a number of future events. Keep an eye on the Facebook page (@tellingthebeesproject) to see where the Beespoon will be next!
-
-Link to the Beespoon video could go here too.
+Our brand new and improved Beespoon will be available to see at a number of future events. Keep an eye on the [Facebook page](https://www.facebook.com/tellingthebeesproject/) to see where the Beespoon will be next!
