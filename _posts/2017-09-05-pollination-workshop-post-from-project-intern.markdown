@@ -12,7 +12,6 @@ layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
-
 ---
 
 When I interviewed for this internship, I was told I’d be doing a wide range of things. Today, this was particularly true, as I had the pleasure of taking part in a PolliNation workshop at [York Explore.](http://www.exploreyork.org.uk/york-explore/)

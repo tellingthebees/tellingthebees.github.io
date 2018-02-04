@@ -11,7 +11,6 @@ layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
-
 ---
 
 After our unfortunate turn of events at Kew Gardens, we had a second Beespoon made in Lancaster last week, and it’s looking better than ever – as some people will have seen at the Gloworm Festival and Tang Hall Library.

@@ -8,11 +8,9 @@ tags:
 - Beespoon
 - environment
 layout: post
-
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
-
 ---
 
 A few weeks ago, I had the pleasure of interviewing Julia Smith, a local beekeeper and a member of the York and District Beekeepers association, and she very kindly allowed us to film one of her beehives. Even though I’ve been near beehives before, it was still a very exhilarating experience.
