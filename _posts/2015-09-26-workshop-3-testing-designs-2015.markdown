@@ -4,6 +4,10 @@ date: 2015-09-26 09:40:00 Z
 categories:
 - prev-work
 layout: post
+show_header_image: true
+header_image: skep
+header_image_alt: Close up of a skep, a traditional beehive.
+
 ---
 
 Armed with four prototypes produced by our brilliant designer Liz Edwards, our third workshop was somewhat of a evaluation session: what works, what doesn’t, what could be made better?

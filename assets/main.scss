@@ -13,6 +13,7 @@ body {
 h1, h2, h3, h4, nav {
   font-family: 'Lusitana', serif;
   color: #333;
+  clear: both;
 }
 
 h1.page-heading {
@@ -201,6 +202,47 @@ h3.profile-title {
 .image-center {
   text-align: center;
   margin: 3px;
+}
+div.homenav {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+div.image-nav {
+  float: left;
+  text-align: center;
+  width: 140px;
+  padding: 0px;
+  margin: 0 auto;
+}
+.image-nav p{
+  /*font-family: 'Lusitana', serif;*/
+  margin: 0;
+  padding: 0;
+  margin-top: -50px;
+  padding-bottom: 30px;
+}
+.image-nav a{
+  color: white;
+}
+.image-nav a:hover{
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: #C7B17C !important;
+}
+
+.firstcharacter {
+  float: left;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 95px;
+  line-height: 60px;
+  padding-top: 8px;
+  padding-right: 4px;
+  padding-left: 0px;
 }
 hr {
   color: #fff;

@@ -4,6 +4,10 @@ date: 2015-08-26 09:37:00 Z
 categories:
 - prev-work
 layout: post
+show_header_image: true
+header_image: skep
+header_image_alt: Close up of a skep, a traditional beehive.
+
 ---
 
 Our second workshop took place in August 2015 and built on the stories and ideas generated in our first workshop. The day kicked off with a quick recap of the four main stories that came out of the previous event, and after a quick woolly interconnected icebreaker (see below!) everyone got down to thinking about new, innovative ways to share information about bees and beekeeping.

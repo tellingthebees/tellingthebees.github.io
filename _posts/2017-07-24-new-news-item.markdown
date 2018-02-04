@@ -4,9 +4,12 @@ date: 2017-07-24 23:21:00 Z
 categories:
 - news
 layout: post
+show_header_image: true
+header_image: news
+header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
 ---
 
-All of us here at ‘Telling the Bees’ had a fantastic day at Wybourn Community Primary School in Sheffield. Previously, both year five classes have been working very hard with the project team to create futuristic design concepts to try and solve the problems we’ll face if our approaching bee crisis happens. These problems included the use of pesticides, invading species (such as Asian hornets), lack of food due to reduced pollination and the rise in expensive honey (or no honey at all!) if bee numbers decrease. The children spent a lot of time conceptualising, building, and refining inventive models of their designs through sketching, drama, writing, junk modelling and digital 3D models, which we have 3D printed in solid prototypes. 
+All of us here at ‘Telling the Bees’ had a fantastic day at Wybourn Community Primary School in Sheffield. Previously, both year five classes have been working very hard with the project team to create futuristic design concepts to try and solve the problems we’ll face if our approaching bee crisis happens. These problems included the use of pesticides, invading species (such as Asian hornets), lack of food due to reduced pollination and the rise in expensive honey (or no honey at all!) if bee numbers decrease. The children spent a lot of time conceptualising, building, and refining inventive models of their designs through sketching, drama, writing, junk modelling and digital 3D models, which we have 3D printed in solid prototypes.
 
 ![bee armour.jpg](/uploads/bee%20armour.jpg)
 *Bee Armour - the armour provides protection for the bees against predators such as Hornets.*
