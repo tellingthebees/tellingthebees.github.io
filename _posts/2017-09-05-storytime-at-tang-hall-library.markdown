@@ -8,6 +8,10 @@ tags:
 - honey
 - bees
 - Tang Hall Library
+show_header_image: true
+header_image: news
+header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+
 ---
 
 Making honey is a whole lot of work!
@@ -33,6 +37,6 @@ Our 100th Flower!
 After a while, our participants took a small break from making flowers and creating honey to listen to some stories about bees from professional storyteller Lindsey Gibb, which taught the participants a lot about how bees communicate and find flowers to pollinate.
 
 ![storytime 5.jpg](/uploads/storytime%205.jpg)
-Storytime with Lindsey. Photo Credit: Debbie Maxwell 
+Storytime with Lindsey. Photo Credit: Debbie Maxwell
 
 All of us here at Telling the Bees had a wonderful day, and we’d like to thank everyone who came along and took part in our activities.

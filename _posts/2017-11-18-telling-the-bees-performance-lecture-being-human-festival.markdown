@@ -7,8 +7,12 @@ tags:
 - Performance
 - being human
 - York
+show_header_image: true
+header_image: news
+header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+
 ---
 
-The performance-lecture ‘Telling the Bees’ at King's Manor, York took its audience through the past, present and future of bees and beekeeping. Together with Growtheatre's youth theatre company, professional actors and a local beekeeper, the performance explored stories surrounding the important and fascinating honey bee. 
+The performance-lecture ‘Telling the Bees’ at King's Manor, York took its audience through the past, present and future of bees and beekeeping. Together with Growtheatre's youth theatre company, professional actors and a local beekeeper, the performance explored stories surrounding the important and fascinating honey bee.
 
 The audience took part in an interactive performance where they were taken to four stations, combining drama and interactive tasks to help them explore different aspects of research on the bee. They discovered what a Beespoon is, how the honey bee got her sting, and had a glimpse into possible futures for our bees. Feedback was very positive and many people lingered on to learn and share more stories about bees!

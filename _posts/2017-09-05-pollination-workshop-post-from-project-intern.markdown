@@ -8,6 +8,10 @@ tags:
 - pollen
 - polliNation
 - York Explore
+show_header_image: true
+header_image: news
+header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+
 ---
 
 When I interviewed for this internship, I was told I’d be doing a wide range of things. Today, this was particularly true, as I had the pleasure of taking part in a PolliNation workshop at [York Explore.](http://www.exploreyork.org.uk/york-explore/)
@@ -27,7 +31,7 @@ What I initially thought would be a fairly quick task, with it being a small pie
 
 My own attempt to make a hexagon.
 
-One thing that was particularly exciting was the presence of York Press, who wrote an [article](http://www.yorkpress.co.uk/news/15468795.We_need_to_talk_about_bees___/?ref=twtrec) about the workshops and the project! 
+One thing that was particularly exciting was the presence of York Press, who wrote an [article](http://www.yorkpress.co.uk/news/15468795.We_need_to_talk_about_bees___/?ref=twtrec) about the workshops and the project!
 
 In many ways, the artwork is only one benefit of the project. What was really brilliant was seeing members of the community come together to socialise and work on raising awareness for an important issue. Thank you to Claire and Donna for hosting such a lovely workshop!
 

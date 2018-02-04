@@ -3,6 +3,10 @@ title: Manor Lodge Community Primary School Visit
 date: 2017-08-09 12:04:00 Z
 categories:
 - news
+show_header_image: true
+header_image: news
+header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+
 ---
 
 One of the great things about this project is that we have the opportunity and the privilege of working with lots of talented and creative individuals. This time, we worked with the Year Five Students of Manor Lodge Community Primary School in Sheffield, and their enthusiasm was evident in the plethora of brilliant work they created.
