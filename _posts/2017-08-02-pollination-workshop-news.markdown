@@ -7,7 +7,6 @@ layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
-
 ---
 
 If you want a taster of the PolliNation workshops, then have a look at this video which was featured on York TV!

@@ -12,11 +12,9 @@ tags:
 - Telling the bees
 - Storytelling
 layout: post
-
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
-
 ---
 
 We had a wonderful couple of days working with York and Acomb Explore to deliver ‘Bee Detective’ themed workshops to a number of enthusiastic aspiring Sherlock Holmes’.
