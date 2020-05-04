@@ -13,8 +13,8 @@ description: 'Telling the Bees is a digital making and design project that explo
   the stories and possible futures of honey bees and their role in our world.
 
 '
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: tellthebee
 twitter_hashtag: tellingthebees
 facebook: tellingthebeesproject

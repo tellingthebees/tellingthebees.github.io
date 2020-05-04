@@ -1,6 +1,7 @@
 ---
 title: Project News
 permalink: "/news/"
+position: 4
 layout: news
 show_header_image: true
 header_image: news

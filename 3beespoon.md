@@ -1,6 +1,7 @@
 ---
 title: Beespoon
 permalink: "/beespoon/"
+position: 2
 show_header_image: true
 header_image: beespoon
 header_image_alt: The beespoon installation

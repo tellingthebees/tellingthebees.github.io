@@ -1,15 +1,16 @@
 ---
-title: Previous Work
+title: Project 1
 permalink: "/prev-work/"
+position: 0
 show_header_image: true
 header_image: skep
 header_image_alt: Close up of a skep, a traditional beehive.
 layout: home
 ---
 
-## Previous Work
+## Telling the Bees 1
 
-The first Telling the Bees project ([AH/M009319/1](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F1){:target="_blank"} & [AH/M009319/2](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F2){:target="_blank"} ) was a multi-institution, interdisciplinary Connected Communities-funded project (Apr 2015 - Oct 2016) examining the rich folklore, traditions and contemporary practices of beekeeping. This was a collaboration between universities of Edinburgh (Maxwell, PI), Sheffield (Pillatt, Co-I) and Falmouth (Downing, Co-I) and project partner Tay Landscape Partnership. We were joined by Designer Liz Edwards (Lancaster University), Artist Morvern Odling (Edinburgh), and advisory group ()
+The first Telling the Bees project ([AH/M009319/1](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F1){:target="_blank"} & [AH/M009319/2](http://gtr.rcuk.ac.uk/projects?ref=AH%2FM009319%2F2){:target="_blank"} ) was a multi-institution, interdisciplinary Connected Communities-funded project (Apr 2015 - Oct 2016) examining the rich folklore, traditions and contemporary practices of beekeeping. This was a collaboration between universities of Edinburgh (Maxwell, PI), Sheffield (Pillatt, Co-I) and Falmouth (Downing, Co-I) and project partner Tay Landscape Partnership. We were joined by Designer Liz Edwards (Lancaster University), Artist Morvern Odling (Edinburgh), and multi-talented advisory group.
 
 The project worked with Scottish beekeepers, primary schools, storytellers, artists, designers, scientists, interested members of the general public, and our community partner, Tay Landscape Partnership (TayLP). Inverting the concept of Traditional Ecological Knowledge (TEK), we aimed to codesign ‘Future Folklore’ that codified or repackaged scientific and environmental knowledge in new artefactual and narrative formats. Future Folklore is closely aligned with the emerging field of Design Fictions – a way to explore possible future narratives through designed objects, enabling new perspectives and conversations on present and near future issues.
 
