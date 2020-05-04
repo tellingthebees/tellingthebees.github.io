@@ -1,0 +1,250 @@
+---
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Lusitana');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans');
+
+body {
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: #333;
+}
+
+h1, h2, h3, h4, nav {
+  font-family: 'Lusitana', serif;
+  color: #333;
+  clear: both;
+}
+
+h1.page-heading {
+  font-size: 2.1em;
+}
+.image-caption {
+  font-size: 0.9em;
+  font-style: italic;
+  padding:0;
+  margin-top: -12px;
+}
+.image-caption-center {
+  font-size: 0.9em;
+  text-align: center;
+  font-style: italic;
+  padding:0;
+  margin-top: 0px;
+}
+.header-image {
+  height: 250px;
+  margin: 0;
+  margin-top: -20px;
+
+}
+img.header-image {
+  height: 250px;
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
+}
+.site-nav {
+  line-height: normal;
+  margin-top: 10px;
+}
+.page-content {
+
+  padding: 20px 0;
+}
+.site-title {
+  font-family: 'Lusitana', serif;
+  font-size: 2.2em;
+  letter-spacing: normal;
+  transition: all 0.3s ease;
+}
+a, a:visited {
+    color: #99935D;
+    /*color: #7F6D41;
+    color: #999;
+    color: #bac5c2;*/
+    font-family: 'Quattrocento Sans', sans-serif;
+    transition: all 0.3s ease;
+}
+a:hover {
+  color: #888;
+}
+
+a.site-title {
+  margin-left: 0;
+}
+.page-link {
+  transition: all 0.3s ease;
+  font-family: 'Lusitana', serif;
+}
+a.page-link:hover {
+  color: grey;
+  text-decoration: none;
+}
+a.site-title:hover {
+  text-decoration: none;
+  color: #c99a2a;
+}
+
+a.footer-heading {
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+img.site-logo {
+  max-width: 50px;
+  float:left;
+  padding: 2px;
+  margin-right: 6px;
+}
+
+.social-media {
+  font-size: 16px !important;
+}
+.site-header {
+  background: -o-linear-gradient(left, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
+  background: linear-gradient(to right, #c99a2a, #ffdd8d, #ecbf53, #ffe5a6, #b48925);
+  background: linear-gradient(to right, #9f826d, #d7b62b, #cdac4e, #d18911, #b48925);
+  height: auto;
+  border: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  border-left: none;
+  border-right: none;
+}
+
+.header-bkgd {
+  background: white;
+  margin-top: 11px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+/*footer */
+p.footer-heading {
+  font-size: 0.9em;
+  /*font-size: 0.8em;*/
+  text-align: left;
+  color: #828282;
+  padding-top: 0px;
+  margin-bottom: 5px;
+}
+p.footer-funder {
+  border-top: 1px solid #ccc;
+  text-align: right;
+  font-size: 12px;
+  padding-top: 5px;
+  margin-top: 15px;
+}
+.footer-col-1{
+  width: calc(40% - (30px / 2));
+  font-size: 0.85em;
+  margin: 0;
+}
+.footer-col-3{
+  width: calc(60% - (30px / 2));
+  margin: 0;
+  float: right;
+  font-size: 0.85em;
+}
+.footer-col-wrapper {
+  margin: 6px 0;
+  padding: 10px 0 0;
+}
+.site-footer {
+  padding-top: 10px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.footer-logo {
+  height: 50px;
+  object-fit: contain;
+  max-width: 115px;
+  margin: 3px 7px;
+  padding: 0;
+
+}
+.post-content {
+  margin-top: 10px;
+}
+.image-profile img {
+  clear: both;
+  float: left;
+  width: 120px;
+  height: 150px;
+  object-fit: cover;
+  -webkit-filter: grayscale(1);
+	-webkit-filter: grayscale(100%);
+	filter: gray;
+	filter: grayscale(100%);
+  border: 3px solid #fff;
+  margin: 3px 12px 12px 0;
+
+}
+
+h3.profile-title {
+  font-size: 1.2em;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  margin-top: 8px;
+}
+
+.image-floatleft {
+  float: left;
+  margin: 3px;
+  margin-right: 18px;
+}
+
+.image-floatright {
+  float: right;
+  margin: 3px;
+  margin-left: 18px;
+}
+.image-center {
+  text-align: center;
+  margin: 3px;
+}
+div.homenav {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+div.image-nav {
+  float: left;
+  text-align: center;
+  width: 140px;
+  padding: 0px;
+  margin: 0 auto;
+}
+.image-nav p{
+  /*font-family: 'Lusitana', serif;*/
+  margin: 0;
+  padding: 0;
+  margin-top: -50px;
+  padding-bottom: 30px;
+}
+.image-nav a{
+  color: white;
+}
+.image-nav a:hover{
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: #C7B17C !important;
+}
+
+.firstcharacter {
+  float: left;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 95px;
+  line-height: 60px;
+  padding-top: 8px;
+  padding-right: 4px;
+  padding-left: 0px;
+}
+hr {
+  color: #fff;
+  margin-bottom: 12px;
+}

@@ -1,0 +1,29 @@
+---
+title: Telling the Bees
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: debbie.maxwell@york.ac.uk
+description: 'Telling the Bees is a digital making and design project that explores
+  the stories and possible futures of honey bees and their role in our world.
+
+'
+baseurl: 
+url: 
+twitter_username: tellthebee
+twitter_hashtag: tellingthebees
+facebook: tellingthebeesproject
+github_username: 
+logo: logo.png
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock

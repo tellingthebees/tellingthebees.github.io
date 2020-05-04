@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="header-image">
+  <img class="header-image" src="{{"/assets/headers/" | append: page.header_image | append: ".jpg"}}" alt="{{ page.header_image_alt }}">
+</div>
+<div class="wrapper">
+  <div class="home">
+    <h1 class="page-heading">Events</h1>
+
+    <ul class="post-list">
+
+      {% for post in site.categories.events %}
+        <li>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+          {{ post.excerpt }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>

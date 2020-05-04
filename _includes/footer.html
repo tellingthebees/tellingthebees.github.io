@@ -1,0 +1,48 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+<div style="text-align:center;">
+  <a href="https://www.york.ac.uk/" target="_blank"><img class="footer-logo" src="/assets/UOY-Logo.png"></a>
+  <a href="http://growtheatre.org.uk/" target="_blank"><img class="footer-logo" src="/assets/grow_rgb.png"></a>
+  <a href="https://www.sheffield.ac.uk/" target="_blank"><img class="footer-logo" src="/assets/sheffield-logo.jpg"></a>
+  <a href="https://www.exploreyork.org.uk/" target="_blank"><img class="footer-logo" src="/assets/explore.png"></a>
+  <a href="http://www.lancaster.ac.uk/" target="_blank"><img class="footer-logo" src="/assets/lancaster-logo.svg"></a>
+  <a href="http://www.ahrc.ac.uk/" target="_blank"><img class="footer-logo" src="/assets/AHRC.jpg"></a>
+</div>
+
+    <div class="footer-col-wrapper">
+      <p class="footer-heading">
+        {{ site.description | escape }}
+
+      {% if site.email %}
+      For more information on the project contact: </p><p class="footer-heading"> <a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i> {{ site.email }}</a>
+      {% endif %}
+      {% if site.twitter_username || site.twitter_hashtag %}
+      | <i class="fa fa-twitter social-media"></i>
+      {% endif %}
+      {% if site.twitter_username %}
+
+      <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+        @{{ site.twitter_username }}</a>
+        {% endif %}
+      {% if site.twitter_hashtag %}
+        {% if site.twitter_username %}
+        /
+        {% endif %}
+        <a href="https://twitter.com/search?q=%23{{ site.twitter_hashtag }}" target="_blank">
+          #{{ site.twitter_hashtag }}</a>
+          {% endif %}
+      {% if site.facebook %}
+      |
+      <a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square social-media"></i>
+        {{ site.facebook }}</a>
+        {% endif %}
+      </p>
+    <p class="footer-funder">
+      Telling the Bees is funded by the Arts and Humanities Research Council (<a class="footer-heading" href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FP009581%2F1" target="_blank">AH/P009581/1</a>).
+    </p>
+    </div>
+  </div>
+
+</footer>
