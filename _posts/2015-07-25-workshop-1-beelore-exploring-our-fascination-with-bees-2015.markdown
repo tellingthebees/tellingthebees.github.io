@@ -2,11 +2,11 @@
 title: 'Workshop 1: Beelore – Exploring our Fascination with Bees (2015)'
 date: 2015-07-25 09:36:00 Z
 categories:
-- prev-work
-layout: post
+- events
 show_header_image: true
 header_image: skep
 header_image_alt: Close up of a skep, a traditional beehive.
+layout: post
 ---
 
 Our first workshop in July 2015 explored the world of bees and beekeeping, looking at traditional and current stories and their scientific basis. Before the workshop, the project team had spent some time trying to get our heads around the basics of bees and beekeeping, by interviewing beekeepers, going out on hive inspections, reading contemporary beekeeping literature and earlier manuscripts at the [Moir Library](http://www.scottishbeekeepers.org.uk/moir_library.html){:target="_blank"} collection at Fountainbridge and [NLS Rare Books Collection](http://digital.nls.uk/moir/index.html){:target="_blank"} (well worth a visit if you haven’t been!).
