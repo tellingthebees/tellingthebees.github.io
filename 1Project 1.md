@@ -22,11 +22,11 @@ We adopted a Research through Design approach to understand and discover knowled
 
 Drawing inspiration from a series of semi-structured interviews with beekeepers and hands-on hive inspections, as well as an examination of the folklore and traditions of beekeeping described within the Moire Rare Book Collection of the National Library of Scotland, the Telling the Bees codesign workshops resulted in a host of new ideas as to how we might share knowledge about bees.
 
-* [Find out what happened in workshop #1](/events/2015/07/25/workshop-1-beelore-exploring-our-fascination-with-bees-2015.html) *(July 2015)*
+* [Find out what happened in workshop #1](/activities/2015/07/25/workshop-1-beelore-exploring-our-fascination-with-bees-2015.html) *(July 2015)*
 
-* [Find out what happened in workshop #2](/events/2015/08/26/workshop-2-building-on-the-buzz-2015.html) *(August 2015)*
+* [Find out what happened in workshop #2](/activities/2015/08/26/workshop-2-building-on-the-buzz-2015.html) *(August 2015)*
 
-* [Find out what happened in our final workshop #3](/events/2015/09/26/workshop-3-testing-designs-2015.html) *(Sept 2015)*
+* [Find out what happened in our final workshop #3](/activities/2015/09/26/workshop-3-testing-designs-2015.html) *(Sept 2015)*
 
 #### Workshop Resources
 
@@ -46,8 +46,8 @@ From these, the Future Folklore idea chosen to prototype most fully was the Bees
 
 Additionally, a collaboration with 3 rural primary schools, an artist (Morvern Odling) and a beekeeper led to the development of story and making workshops, where children produced decorated wooden beehive boxes containing their own imaginative bee stories.
 
-* [Read more about the bee boxes](/prev-work/2015/11/26/the-bee-story-boxes.html)
+* [Read more about the bee boxes](/artefacts/2015/11/26/the-bee-story-boxes.html)
 
-* [Read the stories from the schools](/prev-work/2017/07/26/bee-stories.html)
+* [Read the stories from the schools](/activities/2017/07/26/bee-stories.html)
 
 * [Read our "Bee Boxes: Designing Spaces for Stories" publication](https://figshare.com/articles/Bee_Boxes_Designing_Spaces_for_Stories/4747009){:target="_blank"}
