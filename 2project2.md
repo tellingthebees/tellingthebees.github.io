@@ -1,6 +1,6 @@
 ---
 title: Project 2
-permalink: "/about/"
+permalink: "/project2/"
 position: 1
 show_header_image: true
 header_image: bumble
