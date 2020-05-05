@@ -1,8 +1,8 @@
 ---
-title: PolliNation Art Installation (Oct-Nov)
+title: PolliNation Art Installation
 date: 2017-10-23 16:14:00 Z
 categories:
-- events
+- artefacts
 tags:
 - polliNation
 - pollen
