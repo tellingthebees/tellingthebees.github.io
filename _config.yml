@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: debbie.maxwell@york.ac.uk
-description: 'Telling the Bees is a digital making and design project that explores
+description: 'Telling the Bees was a digital making and design project that explored
   the stories and possible futures of honey bees and their role in our world.
 
 '
@@ -17,7 +17,6 @@ baseurl:
 url: 
 twitter_username: tellthebee
 twitter_hashtag: tellingthebees
-facebook: tellingthebeesproject
 github_username: 
 logo: logo.png
 markdown: kramdown
