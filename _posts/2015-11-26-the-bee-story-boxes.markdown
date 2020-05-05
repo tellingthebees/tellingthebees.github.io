@@ -9,7 +9,9 @@ header_image_alt: Close up of a skep, a traditional beehive.
 layout: post
 ---
 
-*This guest post from our collaborator, Morvern Odling, explains a strand of the first Telling the Bees project that took place over Summer 2015 across three primary schools in our partner TayLP’s catchment area (Tayside, Scotland). Tying in with their existing curriculum work on orchards, soil and pollination, we visited each school to help students understand the importance of the honeybee through learning, creative writing, and craft activities. We designed these activities to contribute to an overall schools sharing day, where all the children would come together at a local heritage orchard to bring and swap their stories.*
+The Bee Story Boxes are beautiful wooden boxes designed by our collaborator, Morvern Odling, and built to house short stories created by primary school children in Tayside.
+
+*This guest post from Morvern describes a strand of the first Telling the Bees project that took place over Summer 2015 across three primary schools in our partner TayLP’s catchment area (Tayside, Scotland). Tying in with their existing curriculum work on orchards, soil and pollination, we visited each school to help students understand the importance of the honeybee through learning, creative writing, and craft activities. We designed these activities to contribute to an overall schools sharing day, where all the children would come together at a local heritage orchard to bring and swap their stories.*
 
 ![Close up of storybox suspended from an apple tree](/uploads/2-a1bcbb.jpg)
 
