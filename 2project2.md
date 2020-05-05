@@ -20,7 +20,7 @@ We worked with Year 5 pupils from [Manor Lodge and Wybourn Community Primary Sch
 Our amazing [Beespoon](http://www.tellingthebees.buzz/beespoon/) interactive exhibit was rebuilt anew in a much portable and durable format. We now send it 'on tour' to local beekeeping associations and education providers for use at their engagement events.
 
 3. **Widening Public Engagement**  
-We attended a number of high profile events and festivals throughout the year, including:
+We attended a number of high profile events and festivals throughout the course of the project, including:
 * BBC Countryfile Live at Blenheim Palace
 * The Royal Highland Show
 * Edinburgh International Science Festival
