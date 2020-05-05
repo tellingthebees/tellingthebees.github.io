@@ -16,7 +16,9 @@ layout: post
 PolliNation is a community arts installation inspired by microscopic images of pollen and created from over 470 individual hexagons.
 
 ![Pollination](/uploads/polliNation%201.jpg)
-Photo credit: Debbie Maxwell.
+
+{:.image-caption}
+Photo credit: Debbie Maxwell
 
 Telling the Bees collaborated with community artist Claire Douglas from York Learning (York City Council) to run more than 10 free workshops during summer 2017, where pupils in local art classes and special needs schools, residents at care homes, and members of the public used watercolour pencils to draw images of microscopic pollen on small wooden hexagons. The artwork was exhibited in York Explore Main Library for 2 months in 2017, and again in February-March 2019 at City Screen cinema, York.
 
