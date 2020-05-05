@@ -1,8 +1,8 @@
 ---
-title: Events
+title: Activities
 permalink: "/activties/"
 position: 5
-categories: events
+categories: activities
 show_header_image: true
 header_image: events
 header_image_alt: Adding a bee drawing at one of our events. Image credit Lindsay
