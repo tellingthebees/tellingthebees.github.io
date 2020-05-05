@@ -2,7 +2,7 @@
 title: Telling The Bees Performance Lecture - Being Human Festival
 date: 2017-11-18 18:42:00 Z
 categories:
-- events
+- activities
 tags:
 - Performance
 - being human
