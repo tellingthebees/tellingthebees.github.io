@@ -2,7 +2,7 @@
 title: 'Workshop 1: Beelore – Exploring our Fascination with Bees (2015)'
 date: 2015-07-25 09:36:00 Z
 categories:
-- events
+- activities
 show_header_image: true
 header_image: skep
 header_image_alt: Close up of a skep, a traditional beehive.
