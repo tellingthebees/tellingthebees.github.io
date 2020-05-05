@@ -2,7 +2,7 @@
 title: 'Workshop 2: Building on the Buzz 2015'
 date: 2015-08-26 09:37:00 Z
 categories:
-- events
+- activities
 show_header_image: true
 header_image: skep
 header_image_alt: Close up of a skep, a traditional beehive.
