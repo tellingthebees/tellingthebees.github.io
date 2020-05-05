@@ -2,7 +2,7 @@
 title: 'Summer Reading Challenge: Bee Detectives'
 date: 2017-09-05 13:55:00 Z
 categories:
-- events
+- activities
 tags:
 - candles
 - origami
@@ -17,7 +17,7 @@ header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
 layout: post
 ---
 
-We had a wonderful couple of days working with York and Acomb Explore to deliver ‘Bee Detective’ themed workshops to a number of enthusiastic aspiring Sherlock Holmes’.
+In the summer of 2017, we had a wonderful couple of days working with York and Acomb Explore to deliver ‘Bee Detective’ themed workshops to a number of enthusiastic aspiring Sherlock Holmes’.
 
 ![reading 1.jpg](/uploads/reading%201.jpg)
 The detectives using their devices to help them see like a bee
@@ -40,5 +40,6 @@ The flowers on display
 ![reading 6.jpg](/uploads/reading%206.jpg)
 A beeswax candle
 
-After an exhaustingly busy time making origami flowers and fashioning candles out of beeswax, the tired ‘Bee Detectives’ sat down to listen to a story about a very busy bee who accidentally loses her hive. Through this story, the detectives learnt about the ‘waggle dance,’ a method which bees use to communicate with other bees, and tell them where there are flowers to pollinate.\
+After an exhaustingly busy time making origami flowers and fashioning candles out of beeswax, the tired ‘Bee Detectives’ sat down to listen to a story about a very busy bee who accidentally loses her hive. Through this story, the detectives learnt about the ‘waggle dance,’ a method which bees use to communicate with other bees, and tell them where there are flowers to pollinate.
+
 Overall, we had a very good turn out, and we’d like to thank all the inquisitive ‘Bee Detectives’ who attended our workshops. We hope you enjoyed yourselves!
