@@ -8,8 +8,8 @@ header_image_alt: A busy bumblebee
 layout: home
 ---
 
-## About Telling the Bees 2
-The second Telling the Bees project was an AHRC connected communities follow on project (Feb 2017 - Sept 2018) that built on outputs from Telling the Bees 1. We engaged with new audiences, bringing drama, design, storytelling and the maker (or hacker) movement together to explore playful, immersive ways to understand global environmental issues and share future visions about bees and beekeeping. The project was a collaboration between the universities of [York](http://www.york.ac.uk/tfti "University of York"), [Sheffield](http://www.sheffield.ac.uk/archaeology "University of Sheffield") and [Lancaster](https://www.lancaster.ac.uk/scc/ "Lancaster University"), and [GrowTheatre](http://www.growtheatre.org.uk/ "Growtheatre") and [York Explore](https://www.exploreyork.org.uk/ "York Explore").
+## Telling the Bees 2
+The second Telling the Bees project (also called Hacking the Bees) was an AHRC connected communities follow on project (Feb 2017 - Sept 2018) that built on outputs from Telling the Bees 1. We engaged with new audiences, bringing drama, design, storytelling and the maker (or hacker) movement together to explore playful, immersive ways to understand global environmental issues and share future visions about bees and beekeeping. The project was a collaboration between the universities of [York](http://www.york.ac.uk/tfti "University of York"), [Sheffield](http://www.sheffield.ac.uk/archaeology "University of Sheffield") and [Lancaster](https://www.lancaster.ac.uk/scc/ "Lancaster University"), and [GrowTheatre](http://www.growtheatre.org.uk/ "Growtheatre") and [York Explore](https://www.exploreyork.org.uk/ "York Explore").
 
 
 ### Project Aims
