@@ -2,7 +2,7 @@
 title: Sheffield schools visit York
 date: 2017-11-15 18:33:00 Z
 categories:
-- events
+- activities
 tags:
 - schools
 - York
