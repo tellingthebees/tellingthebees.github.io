@@ -7,6 +7,7 @@ tags:
 - polliNation
 - pollen
 - hexagons
+layout: post
 ---
 
 PolliNation is a community arts installation inspired by microscopic images of pollen and created from over 470 individual hexagons.
