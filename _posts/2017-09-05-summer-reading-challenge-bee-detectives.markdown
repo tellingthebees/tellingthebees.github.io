@@ -2,7 +2,7 @@
 title: 'Summer Reading Challenge: Bee Detectives'
 date: 2017-09-05 13:55:00 Z
 categories:
-- news
+- events
 tags:
 - candles
 - origami
@@ -11,10 +11,10 @@ tags:
 - York Explore
 - Telling the bees
 - Storytelling
-layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+layout: post
 ---
 
 We had a wonderful couple of days working with York and Acomb Explore to deliver ‘Bee Detective’ themed workshops to a number of enthusiastic aspiring Sherlock Holmes’.

@@ -2,16 +2,16 @@
 title: Storytime at Tang Hall Library
 date: 2017-09-05 13:39:00 Z
 categories:
-- news
+- events
 tags:
 - beespoon
 - honey
 - bees
 - Tang Hall Library
-layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+layout: post
 ---
 
 Making honey is a whole lot of work!

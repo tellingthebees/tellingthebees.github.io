@@ -2,15 +2,15 @@
 title: Telling the Bees interview a Beekeeper
 date: 2017-09-05 14:10:00 Z
 categories:
-- news
+- artefacts
 tags:
 - beekeeper
 - Beespoon
 - environment
-layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+layout: post
 ---
 
 A few weeks ago, I had the pleasure of interviewing Julia Smith, a local beekeeper and a member of the York and District Beekeepers association, and she very kindly allowed us to film one of her beehives. Even though I’ve been near beehives before, it was still a very exhilarating experience.
