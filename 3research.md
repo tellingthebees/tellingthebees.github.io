@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: "/research/"
-position: 4
+position: 3
 show_header_image: true
 header_image: 3dprint
 header_image_alt: 3D printing a design fiction

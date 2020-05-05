@@ -1,7 +1,7 @@
 ---
 title: Activities
 permalink: "/activties/"
-position: 6
+position: 5
 categories: activities
 show_header_image: true
 header_image: events
