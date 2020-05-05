@@ -3,6 +3,7 @@ title: Augmented Bee Suit
 date: 2020-05-05 13:33:00 Z
 categories:
 - artefacts
+header-image: header
 layout: post
 ---
 
