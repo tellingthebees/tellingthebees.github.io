@@ -2,7 +2,7 @@
 title: Storytime at Tang Hall Library
 date: 2017-09-05 13:39:00 Z
 categories:
-- events
+- activities
 tags:
 - beespoon
 - honey
@@ -16,7 +16,7 @@ layout: post
 
 Making honey is a whole lot of work!
 
-On Tuesday 29th August, we displayed our brand new Beespoon at a drop in session at Tang Hall Library. From 10am until 4pm, we had a large number of inquisitive visitors pop in to try out our activities. Many of them became very determined to fill that Beespoon with honey!
+On Tuesday 29th August 2017, we displayed our (then) newly constructed Beespoon at a drop in session at Tang Hall Library. From 10am until 4pm, we had a large number of inquisitive visitors pop in to try out our activities. Many of them became very determined to fill that Beespoon with honey!
 
 ![storytime 1.jpg](/uploads/storytime%201.jpg)
 Our new Beespoon on display.
@@ -38,5 +38,3 @@ After a while, our participants took a small break from making flowers and creat
 
 ![storytime 5.jpg](/uploads/storytime%205.jpg)
 Storytime with Lindsey. Photo Credit: Debbie Maxwell
-
-All of us here at Telling the Bees had a wonderful day, and we’d like to thank everyone who came along and took part in our activities.
