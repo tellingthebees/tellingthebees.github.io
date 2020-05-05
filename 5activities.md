@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: "/events/"
+permalink: "/activties/"
 position: 5
 categories: events
 show_header_image: true
