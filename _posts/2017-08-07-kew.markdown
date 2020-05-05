@@ -2,13 +2,13 @@
 title: 'Buzzing about with the Beespoon: The Royal Botanic Gardens, Kew'
 date: 2017-08-07 15:33:00 Z
 categories:
-- news
+- events
 tags:
 - Beespoon
 show_header_image: true
 header_image: news
-layout: post
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+layout: post
 ---
 
 This weekend we had the pleasure to present our interactive Beespoon exhibit at Kew Gardens as part of their Insect Adventure Camp.
