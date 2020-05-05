@@ -8,7 +8,12 @@ header_image_alt: 3D printing a design fiction
 layout: home
 ---
 
-Beekeeping has changed radically since the advent of the varroa destructor (a parasitic mite), first discovered in the UK in the 1990s, with beekeepers now having to adopt more ‘hands on’ management practices to keep varroa in check. Meanwhile, bees and beekeeping are experiencing a surge in interest, as evidenced by an ever-growing body of work in arts and literature.4 Such interventions recognise the honey bee as a powerful cultural symbol, and are mindful of global challenges concerning food security and production.
+## Future Folklore
+
+Our research explored how collaborative designing and making can draw upon the myths and folklore around bees and beekeeping to reflect on contemporary issues. We aimed to create Future Folklore using a co-design method in which knowledge about the past is codified or repackaged in new artefactual and narrative forms. Future Folklore is closely aligned with the emerging field of Design Fictions – a way to explore possible future narratives through designed objects or “dialogical tools”, enabling new perspectives and conversations on present and near future issues.
+
+We focused on beekeeping because it has changed radically since the advent of the varroa destructor (a parasitic mite), first discovered in the UK in the 1990s, with beekeepers now having to adopt more ‘hands on’ management practices to keep varroa (and other pests and pathogens) in check. Meanwhile, bees and beekeeping have experienced a recent surge in interest, as evidenced by an ever-growing body of work in arts and literature. These creative interventions recognise the honey bee as a powerful cultural symbol, and are mindful of global challenges concerning food security and production. Our research was inspired by this body of work, and adds to it.
+
 
 ## Publications
 Publications from the project are...
