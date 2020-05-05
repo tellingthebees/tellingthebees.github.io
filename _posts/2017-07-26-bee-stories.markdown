@@ -1,5 +1,5 @@
 ---
-title: Bee Stories
+title: Bee Stories with Tayside Primary Schools
 date: 2017-07-26 09:25:00 Z
 categories:
 - activities
