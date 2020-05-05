@@ -1,6 +1,6 @@
 ---
 title: Project 1
-permalink: "/prev-work/"
+permalink: "/project1/"
 position: 0
 show_header_image: true
 header_image: skep
