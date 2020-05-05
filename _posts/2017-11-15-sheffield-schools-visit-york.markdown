@@ -2,15 +2,15 @@
 title: Sheffield schools visit York
 date: 2017-11-15 18:33:00 Z
 categories:
-- news
+- events
 tags:
 - schools
 - York
 - designs
-layout: post
 show_header_image: true
 header_image: news
 header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
+layout: post
 ---
 
 We had a wonderful day hosting pupils and teachers from Wybourn Community Primary School and Manor Lodge Primary School in York.  Children came to see an exhibition of their futuristic designs for bees an beekeepers in York Explore.
