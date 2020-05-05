@@ -17,10 +17,19 @@ The ‘Telling the Bees’ performance-lecture was originally created for the Un
 
 ![TTB Performance-Lecture in the spiegaltent](/uploads/pl3.jpg)
 
+{:.image-caption}
+Performing inside the spiegaltent
+
 Working with Growtheatre's youth theatre company, professional actors and local beekeepers, the performance explored the past, present and future of bees and beekeeping.
 
 ![TTB Performance-Lecture in the spiegaltent](/uploads/pl2.jpg)
 
+{:.image-caption}
+Members of Sheffield Beekeepers' Association brought an exhibition hive
+
 The audience took part in an interactive performance where they were taken to four stations, combining drama and interactive tasks to help them explore different aspects of research on the bee. They discovered what a Beespoon is, how the honey bee got her sting, and had a glimpse into possible futures for our bees. Feedback was very positive at both events and many people lingered on to learn and share more stories about bees.
 
 ![TTB Performance-Lecture in the spiegaltent](/uploads/pl1.jpg)
+
+{:.image-caption}
+Members of the Growtheatre Youth Theatre Group took centre stage
