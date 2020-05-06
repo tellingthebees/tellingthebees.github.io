@@ -33,7 +33,7 @@ We attended a number of high profile events and festivals throughout the course 
 * British Beekeepers' Association Spring Convention
 * Rhubarb and Apple Weekends at Clumber Park
 * Bee Green Festival at Lancaster University
-* Ecclesall Woods Spring Festival
+* Ecclesall Woods Spring Festival, Sheffield
 * AHRC Common Ground, York
 
 In collaboration with Explore York Libraries and Archives, we also hosted a series of bee-themed [workshops](https://www.tellingthebees.buzz/activities/2017/09/05/summer-reading-challenge-bee-detectives.html), [events](https://www.tellingthebees.buzz/activities/2017/10/23/hack-camp-cross-pollination-1st-nov.html) and [exhibitions](https://www.tellingthebees.buzz/artefacts/2017/10/23/pollination-art-installation.html).
