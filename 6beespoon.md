@@ -8,7 +8,7 @@ header_image_alt: The beespoon installation
 layout: home
 ---
 
-# How Much Honey Does a Beespoon Hold?
+# The Beespoon
 
 ![1.jpg](/uploads/1.jpg)
 
