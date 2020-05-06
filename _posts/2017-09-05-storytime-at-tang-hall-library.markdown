@@ -14,9 +14,7 @@ header_image_alt: Beelore seed packets on display at a festival, Scotland 2015
 layout: post
 ---
 
-Making honey is a whole lot of work!
-
-On Tuesday 29th August 2017, we displayed our (then) newly constructed Beespoon at a drop in session at Tang Hall Library. From 10am until 4pm, we had a large number of inquisitive visitors pop in to try out our activities. Many of them became very determined to fill that Beespoon with honey!
+On Tuesday 29th August 2017, we displayed our (then) newly constructed Beespoon at a drop in session at Tang Hall Library. We had a large number of inquisitive visitors pop in to try out our activities. Many of them became very determined to fill that Beespoon with honey!
 
 ![storytime 1.jpg](/uploads/storytime%201.jpg)
 Our new Beespoon on display.
