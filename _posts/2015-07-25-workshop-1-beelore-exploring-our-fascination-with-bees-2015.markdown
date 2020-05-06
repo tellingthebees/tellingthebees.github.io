@@ -9,7 +9,9 @@ header_image_alt: Close up of a skep, a traditional beehive.
 layout: post
 ---
 
-Our first workshop in July 2015 explored the world of bees and beekeeping, looking at traditional and current stories and their scientific basis. Before the workshop, the project team had spent some time trying to get our heads around the basics of bees and beekeeping, by interviewing beekeepers, going out on hive inspections, reading contemporary beekeeping literature and earlier manuscripts at the [Moir Library](http://www.scottishbeekeepers.org.uk/moir_library.html){:target="_blank"} collection at Fountainbridge and [NLS Rare Books Collection](http://digital.nls.uk/moir/index.html){:target="_blank"} (well worth a visit if you haven’t been!).
+Our first workshop in July 2015 explored the world of bees and beekeeping, looking at traditional and current stories and their scientific basis. 
+
+Before the workshop, the project team had spent some time trying to get our heads around the basics of bees and beekeeping, by interviewing beekeepers, going out on hive inspections, reading contemporary beekeeping literature and earlier manuscripts at the [Moir Library](http://www.scottishbeekeepers.org.uk/moir_library.html){:target="_blank"} collection at Fountainbridge and [NLS Rare Books Collection](http://digital.nls.uk/moir/index.html){:target="_blank"} (well worth a visit if you haven’t been!).
 
 The workshop brought together a range of participants including beekeepers, storytellers and those interested in finding out more about the world of beekeeping and its stories. We were delighted by the turnout and the generous, open way that everyone shared their own experience, valuing the experiences and expertise of others. Because of the mix of backgrounds, we encouraged everyone to **question everything**, especially including myself, Toby and Niamh!
 

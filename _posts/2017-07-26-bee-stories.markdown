@@ -9,7 +9,9 @@ header_image_alt: Close up of a skep, a traditional beehive.
 layout: post
 ---
 
-In 2015, Telling the Bees went out to three primary schools in Tayside with our partner, the Tayside Landscape Partnership. We worked with a group of students in each school, assisted by a local beekeeper, Steve Fulton (to whom we are very grateful!). We spent a day with each group, Steve told the classes about bees, children got a chance to try on a bee suit, spot a queen in an observation hive, and ask all the questions they wanted! We then asked the class to come up with their own stories on bees, writing them in three parts and illustrating them. Mo Odling (independent artist and project collaborator) had designed and built some beautiful storyboxes to hold these stories (read more about the story boxes here). Each day finished with the children decorating their own storybox ‘doors’ that would open onto the stories.
+In 2015, Telling the Bees went out to three primary schools in Tayside with our partner, the Tay Landscape Partnership. 
+
+We worked with a group of students in each school, assisted by a local beekeeper, Steve Fulton (to whom we are very grateful!). We spent a day with each group, Steve told the classes about bees, children got a chance to try on a bee suit, spot a queen in an observation hive, and ask all the questions they wanted! We then asked the class to come up with their own stories on bees, writing them in three parts and illustrating them. Mo Odling (independent artist and project collaborator) had designed and built some beautiful storyboxes to hold these stories (read more about the story boxes here). Each day finished with the children decorating their own storybox ‘doors’ that would open onto the stories.
 
 After the workshops we printed out the stories and placed them into the decorated storyboxes, ready for installing in a schools sharing day at a local heritage orchard and a TayLP Fruit Festival.
 
