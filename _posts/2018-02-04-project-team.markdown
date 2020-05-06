@@ -26,7 +26,7 @@ Debbie is a lecturer in design at Theatre, Film and Television at University of 
 {:.image-profile}
 ![toby image resized-5f52a6.jpg](/uploads/toby%20image%20resized-5f52a6.jpg)
 
-Toby is a Research Associate at the University of Sheffield<sup>1</sup>. His background is in landscape archaeology, focusing on human-environment relations in post-medieval Britain. Subjects of interest include the landscape history of trees and woodlands, archaeologies of weather, and the transformative potential of researching community heritage./
+Toby is a Research Associate at the University of Sheffield<sup>1</sup>. His background is in landscape archaeology, focusing on human-environment relations in post-medieval Britain. Subjects of interest include the landscape history of trees and woodlands, archaeologies of weather, and the transformative potential of researching community heritage.\
 <sup>1</sup>Now at the University of York.
 
 
