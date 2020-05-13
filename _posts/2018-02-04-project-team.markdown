@@ -75,6 +75,6 @@ Amy Cornforth was an undergraduate Film and Television Production student, study
 ### Julia Smith (Beekeeper #[TtB2](/project2), [Yonder Honey](https://twitter.com/yonderhoney))
 
 {:.image-profile}
-![julia.jpg](/uploads/julia.jpg))
+![julia.jpg](/uploads/julia.jpg)
 
-Julia has been keeping bees for four years and has hives across the city of York, including on the roof of the TFTV department at the University of York. Julia is part of Eat Natural's Pollenation project putting Arnia technology in hives to develop a greater understanding of bees and their colonies. 
+Julia has been keeping bees for four years and has hives across the city of York, including on the roof of the TFTV department at the University of York. Julia is part of Eat Natural's Pollenation project putting Arnia technology in hives to develop a greater understanding of bees and their colonies.
