@@ -27,7 +27,7 @@ Whilst we can no longer tour the Beespoon ourselves, we do run a lending scheme 
 
 ### The Process
 
-1. Contact Liz Edwards ([liz.edwards@lancaster.ac.uk](mailto:liz.edwards@lancaster.ac.uk) with the dates you wish to borrow the Beespoon.
+1. Contact Liz Edwards ([liz.edwards@lancaster.ac.uk](mailto:liz.edwards@lancaster.ac.uk)) with the dates you wish to borrow the Beespoon.
 2. Liz will check the dates and confirm your booking.
 3. Well in advance of your event, you will receive emailed instructions (also available to download below) on how to use the exhibit.
 4. Within a month of your event, we will arrange the couriers. Sometimes this involves the exhibit travelling to or from other borrowers.
