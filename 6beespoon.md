@@ -34,8 +34,11 @@ Whilst we can no longer tour the Beespoon ourselves, we do run a lending scheme 
 
 ### Resources
 
-* [The Beespoon Specification (pdf)](/uploads/The-Beespoon-Specification.pdf)
+* [Beespoon Specification (pdf)](/uploads/The-Beespoon-Specification.pdf)
 * [Beespoon Instructions (pdf)](/uploads/ttb-instructions-low-res.pdf)
+* [Making an origami flower 1 (easy) (pdf)](/uploads/ttb-origami1.pdf)
+* [Making an origami flower 2 (medium) (pdf)](/uploads/ttb-origami2.pdf)
+* [Packing up the Beespoon (pdf)](/uploads/ttb-Beespoon-pack-up.pdf)
 
 <iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLegChWTpEoduaSa2V5a6KiZ4zltsyDHKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
