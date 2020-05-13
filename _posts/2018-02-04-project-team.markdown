@@ -10,7 +10,7 @@ layout: subpage
 ---
 
 {:.profile-title}
-### Debbie Maxwell (Principal Investigator #[TtB1](/project1/) #[TtB2](/project2), University of York)
+### Debbie Maxwell (Principal Investigator #[ttb1](/project1/) #[ttb2](/project2), University of York)
 
 
 {:.image-profile}
@@ -20,7 +20,7 @@ Debbie is a lecturer in design at Theatre, Film and Television at University of 
 
 
 {:.profile-title}
-### Toby Pillatt (Co-Investigator #[TtB1](/project1/) #[TtB2](/project2), University of York<sup>1</sup>)
+### Toby Pillatt (Co-Investigator #[ttb1](/project1/) #[ttb2](/project2), University of York<sup>1</sup>)
 
 
 {:.image-profile}
@@ -31,7 +31,7 @@ Toby is a Research Associate at the University of York<sup>1</sup>. His backgrou
 
 
 {:.profile-title}
-### Liz Edwards (Designer #[TtB1](/project1/), Co-Investigator #[TtB2](/project2), Lancaster University)
+### Liz Edwards (Designer #[ttb1](/project1/), Co-Investigator #[ttb2](/project2), Lancaster University)
 
 {:.image-profile}
 ![liz.jpg](/uploads/liz.jpg)
@@ -40,13 +40,13 @@ Liz is a designer and PhD student based in HighWire Centre for Doctoral Training
 
 
 {:.profile-title}
-### Niamh Downing (Co-Investigator #[TtB1](/project1))
+### Niamh Downing (Co-Investigator #[ttb1](/project1))
 
 Niamh was formerly Head of the Department of Humanities at Sheffield Hallam University, and Head of English & Writing at Falmouth University. She gained her MA and PhD at University of Exeter in English Literature, and her research expertise is in the field of environmental humanities. She is now the Deputy Vice-Chancellor and Provost at Regent's University, London.
 
 
 {:.profile-title}
-### Rachel Newman (Community Co-Investigator #[TtB2](/project2), [GrowTheatre](http://www.growtheatre.org.uk))
+### Rachel Newman (Community Co-Investigator #[ttb2](/project2), [GrowTheatre](http://www.growtheatre.org.uk))
 
 {:.image-profile}
 ![rachel.jpg](/uploads/rachel.jpg)
@@ -55,24 +55,24 @@ Rachel is joint founder and Co-Artistic Director of Growtheatre, a new Community
 
 
 {:.profile-title}
-### Dave Fleming (Community Co-Investigator #[TtB2](/project2), [York Explore Libraries & Archives](https://www.exploreyork.org.uk/))
+### Dave Fleming (Community Co-Investigator #[ttb2](/project2), [York Explore Libraries & Archives](https://www.exploreyork.org.uk/))
 
 Dave is currently a Community Arts officer for City of York Council, who are dedicated to keeping York safe, and maintaining a good community in York.
 
 
 {:.profile-title}
-### Morvern Odling (Artist and Designer #[TtB1](/project1) #[TTB2](/project2))
+### Morvern Odling (Artist and Designer #[ttb1](/project1) #[ttb2](/project2))
 Morvern works across different artistic and design disciplines, making objects, books, photographs and designing frameworks through which others can engage with her making practice. Her aim is to learn ways that her artistic work can help create the world she wants to live in [[Source](http://www.morvernodling.co.uk/)].
 
 
 {:.profile-title}
-### Amy Cornforth (Student Intern #[TtB2](/project2), University of York)
+### Amy Cornforth (Student Intern #[ttb2](/project2), University of York)
 
 Amy Cornforth was an undergraduate Film and Television Production student, studying in the Theatre, Film and Television department in the University of York.
 
 
 {:.profile-title}
-### Julia Smith (Beekeeper #[TtB2](/project2), [Yonder Honey](https://twitter.com/yonderhoney))
+### Julia Smith (Beekeeper #[ttb2](/project2), [Yonder Honey](https://twitter.com/yonderhoney))
 
 {:.image-profile}
 ![julia.jpg](/uploads/julia.jpg)
